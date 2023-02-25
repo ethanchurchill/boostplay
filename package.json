@@ -1,0 +1,15 @@
+{
+  "name": "boostplay",
+  "version": "1.0.0",
+  "description": "step in the right direction...",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ethan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
