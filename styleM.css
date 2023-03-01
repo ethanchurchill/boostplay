@@ -1,38 +1,55 @@
 @charset "utf-8";
-
-.fluid {
-    clear: both;
-    margin-left: 0;
-    width: 100%;float: left;
-    display: block;
-    background-color: #3d3a40;
-}
 .nav_ul {
     list-style-type: none;
   	margin: 0;
   	padding: 0;
-    background-color: #3d3a40;
 }
 .nav_li {
-    float: left;
+	float: left;
+	margin-left: 60%;
 }
 .nav_li_a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
+    color: #b4423b;
     text-decoration: none;
     font-family: 'Baloo 2 Medium';
+    font-size: 100%;
+    padding-top: 100%;
+    padding-bottom: 100%;
+    padding-right: 30%;
+    padding-left: 30%;
+    font-variant: normal;
+    
 }
 a.nav_li_a:hover {
-    background-color: #111;
+    color: #fdef5e;
+	text-shadow: 0px 0px 5px #fdef5e;
 }
 .logo {
-    
+    max-width: 150px;
+	margin-top: 4%;
 }
 .logo_a {
     text-decoration: none;
-    color: black;
+}
+.logo:hover {
+	max-width: 150px;
+	margin-top: 4%;
+	content: url("assets/BoostPlay_Neon.png");
+}
+.nav_menu {
+	display: flex;
+	align-items: center;
+	margin-left: 7%;
+}
+.nav_bar {
+    display: flex;
+    background-color:#000000;
+    overflow: hidden;
+    height: 50px;
+    width: 100%;
+	border-radius: 15px;
+    align-items: center;
+    box-shadow: 0px 0px 10px 0px #fdef5e;
 }
 
 html {
