@@ -1,0 +1,1798 @@
+[
+		{
+			"name": "Artificer",
+			"source": "UAArtificer",
+			"page": 1,
+			"isReprinted": true,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"con",
+				"int"
+			],
+			"spellcastingAbility": "int",
+			"casterProgression": "1/3",
+			"spellsKnownProgression": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				5,
+				6,
+				6,
+				7,
+				8,
+				8,
+				9,
+				10,
+				10,
+				11,
+				11,
+				11,
+				12,
+				13
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium"
+				],
+				"weapons": [
+					"simple"
+				],
+				"tools": [
+					"{@item Thieves' tools|PHB}",
+					"{@item tinker's tools|PHB}",
+					"one type of {@item artisan's tools|PHB} of your choice"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"deception",
+								"history",
+								"investigation",
+								"medicine",
+								"nature",
+								"religion",
+								"sleight of hand"
+							],
+							"count": 2
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a {@item handaxe|phb} and a {@item light hammer|phb} or (b) any two {@filter simple weapons|items|source=phb|category=basic|type=simple weapon}",
+					"a {@item light crossbow|phb} and {@item crossbow bolts (20)|phb|20 bolts}",
+					"(a) {@item scale mail|phb} or (b) {@item studded leather armor|phb}",
+					"{@item thieves' tools|phb} and a {@item dungeoneer's pack|phb}"
+				],
+				"defaultData": [
+					{
+						"a": [
+							"handaxe|phb",
+							"light hammer|phb"
+						],
+						"b": [
+							{
+								"equipmentType": "weaponSimple",
+								"quantity": 2
+							}
+						]
+					},
+					{
+						"_": [
+							"light crossbow|phb",
+							"crossbow bolts (20)|phb"
+						]
+					},
+					{
+						"a": [
+							"scale mail|phb"
+						],
+						"b": [
+							"studded leather armor|phb"
+						]
+					},
+					{
+						"_": [
+							"thieves' tools|phb",
+							"dungeoneer's pack|phb"
+						]
+					}
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"{@filter Spells Known|spells|class=artificer (uaa)}"
+					],
+					"rows": [
+						[
+							0
+						],
+						[
+							0
+						],
+						[
+							3
+						],
+						[
+							4
+						],
+						[
+							4
+						],
+						[
+							4
+						],
+						[
+							5
+						],
+						[
+							6
+						],
+						[
+							6
+						],
+						[
+							7
+						],
+						[
+							8
+						],
+						[
+							8
+						],
+						[
+							9
+						],
+						[
+							10
+						],
+						[
+							10
+						],
+						[
+							11
+						],
+						[
+							11
+						],
+						[
+							11
+						],
+						[
+							12
+						],
+						[
+							13
+						]
+					]
+				},
+				{
+					"title": "Spell Slots per Spell Level",
+					"colLabels": [
+						"{@filter 1st|spells|level=1|class=Artificer (UAA)}",
+						"{@filter 2nd|spells|level=2|class=Artificer (UAA)}",
+						"{@filter 3rd|spells|level=3|class=Artificer (UAA)}",
+						"{@filter 4th|spells|level=4|class=Artificer (UAA)}"
+					],
+					"rows": [
+						[
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							2,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							1
+						],
+						[
+							4,
+							3,
+							3,
+							1
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				{
+					"classFeature": "Artificer Specialist|Artificer|UAArtificer|1",
+					"gainSubclassFeature": true
+				},
+				"Magic Item Analysis|Artificer|UAArtificer|1",
+				"Tool Expertise|Artificer|UAArtificer|2",
+				"Wondrous Invention|Artificer|UAArtificer|2",
+				{
+					"classFeature": "Masterwork Feature|Artificer|UAArtificer|3",
+					"gainSubclassFeature": true
+				},
+				"Spellcasting|Artificer|UAArtificer|3",
+				"Infuse Magic|Artificer|UAArtificer|4",
+				"Ability Score Improvement|Artificer|UAArtificer|4",
+				"Proficiency Versatility|Artificer|UAArtificer|4|UAClassFeatureVariants",
+				"Superior Attunement|Artificer|UAArtificer|5",
+				"Wondrous Invention|Artificer|UAArtificer|5",
+				"Mechanical Servant|Artificer|UAArtificer|6",
+				"Ability Score Improvement|Artificer|UAArtificer|8",
+				"Proficiency Versatility|Artificer|UAArtificer|8|UAClassFeatureVariants",
+				{
+					"classFeature": "Masterwork Feature|Artificer|UAArtificer|9",
+					"gainSubclassFeature": true
+				},
+				"Wondrous Invention|Artificer|UAArtificer|10",
+				"Ability Score Improvement|Artificer|UAArtificer|12",
+				"Proficiency Versatility|Artificer|UAArtificer|12|UAClassFeatureVariants",
+				{
+					"classFeature": "Masterwork Feature|Artificer|UAArtificer|14",
+					"gainSubclassFeature": true
+				},
+				"Superior Attunement|Artificer|UAArtificer|15",
+				"Wondrous Invention|Artificer|UAArtificer|15",
+				"Ability Score Improvement|Artificer|UAArtificer|16",
+				"Proficiency Versatility|Artificer|UAArtificer|16|UAClassFeatureVariants",
+				{
+					"classFeature": "Masterwork Feature|Artificer|UAArtificer|17",
+					"gainSubclassFeature": true
+				},
+				"Ability Score Improvement|Artificer|UAArtificer|18",
+				"Proficiency Versatility|Artificer|UAArtificer|18|UAClassFeatureVariants",
+				"Soul of Artifice|Artificer|UAArtificer|20"
+			],
+			"subclassTitle": "Artificer Specialist",
+			"subclasses": [
+				{
+					"name": "Alchemist",
+					"shortName": "Alchemist",
+					"source": "UAArtificer",
+					"page": 5,
+					"subclassFeatures": [
+						"Alchemist|Artificer|UAArtificer|Alchemist|UAArtificer|1",
+						"Extra Alchemical Formula|Artificer|UAArtificer|Alchemist|UAArtificer|3",
+						"Extra Alchemical Formula|Artificer|UAArtificer|Alchemist|UAArtificer|9",
+						"Extra Alchemical Formula|Artificer|UAArtificer|Alchemist|UAArtificer|14",
+						"Extra Alchemical Formula|Artificer|UAArtificer|Alchemist|UAArtificer|17"
+					]
+				},
+				{
+					"name": "Gunsmith",
+					"shortName": "Gunsmith",
+					"source": "UAArtificer",
+					"page": 6,
+					"subclassFeatures": [
+						"Gunsmith|Artificer|UAArtificer|Gunsmith|UAArtificer|1",
+						"Thunder Monger|Artificer|UAArtificer|Gunsmith|UAArtificer|3",
+						"Blast Wave|Artificer|UAArtificer|Gunsmith|UAArtificer|9",
+						"Piercing Round|Artificer|UAArtificer|Gunsmith|UAArtificer|14",
+						"Explosive Round|Artificer|UAArtificer|Gunsmith|UAArtificer|17"
+					]
+				}
+			]
+		},
+		{
+			"name": "Artificer (Revisited)",
+			"source": "UAArtificerRevisited",
+			"page": 1,
+			"isReprinted": true,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"con",
+				"int"
+			],
+			"spellcastingAbility": "int",
+			"casterProgression": "artificer",
+			"preparedSpells": "<$level$> / 2 + <$int_mod$>",
+			"cantripProgression": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				3,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"optionalfeatureProgression": [
+				{
+					"name": "Infusions",
+					"featureType": "AI",
+					"progression": [
+						0,
+						3,
+						3,
+						4,
+						4,
+						4,
+						5,
+						5,
+						5,
+						5,
+						6,
+						6,
+						6,
+						6,
+						7,
+						7,
+						7,
+						7,
+						8,
+						8
+					]
+				}
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"{@item shield|phb|shields}"
+				],
+				"weapons": [
+					"simple",
+					"{@item hand crossbow|phb|hand crossbows}",
+					"{@item heavy crossbow|phb|heavy crossbows}",
+					{
+						"proficiency": "firearms",
+						"optional": true
+					}
+				],
+				"tools": [
+					"{@item thieves' tools|PHB}",
+					"{@item tinker's tools|PHB}",
+					"one type of {@item artisan's tools|PHB} of your choice"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"history",
+								"investigation",
+								"medicine",
+								"nature",
+								"perception",
+								"sleight of hand"
+							],
+							"count": 2
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"any two {@filter simple weapons|items|source=phb|category=basic|type=simple weapon}",
+					"a {@item light crossbow|phb} and {@item crossbow bolts (20)|phb|20 bolts}",
+					"(a) {@item studded leather armor|phb} or (b) {@item scale mail|phb}",
+					"{@item thieves' tools|phb} and a {@item dungeoneer's pack|phb}"
+				],
+				"goldAlternative": "{@dice 5d4 × 10|5d4 × 10|Starting Gold}",
+				"defaultData": [
+					{
+						"_": [
+							{
+								"equipmentType": "weaponSimple",
+								"quantity": 2
+							}
+						]
+					},
+					{
+						"_": [
+							"light crossbow|phb",
+							"crossbow bolts (20)|phb"
+						]
+					},
+					{
+						"a": [
+							"studded leather armor|phb"
+						],
+						"b": [
+							"scale mail|phb"
+						]
+					},
+					{
+						"_": [
+							"thieves' tools|phb",
+							"dungeoneer's pack|phb"
+						]
+					}
+				]
+			},
+			"multiclassing": {
+				"requirements": {
+					"int": 13
+				},
+				"proficienciesGained": {
+					"armor": [
+						"light",
+						"medium",
+						"{@item shield|phb|shields}"
+					],
+					"tools": [
+						"{@item thieves' tools|PHB}",
+						"{@item tinker's tools|PHB}"
+					]
+				}
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"{@filter Infusions Known|optionalfeatures|feature type=ai|source=UAArtificerRevisited}",
+						"Infused Items",
+						"{@filter Cantrips Known|spells|level=0|class=artificer revisited (uaar)}"
+					],
+					"rows": [
+						[
+							0,
+							0,
+							2
+						],
+						[
+							3,
+							2,
+							2
+						],
+						[
+							3,
+							2,
+							2
+						],
+						[
+							4,
+							2,
+							2
+						],
+						[
+							4,
+							2,
+							2
+						],
+						[
+							4,
+							3,
+							2
+						],
+						[
+							5,
+							3,
+							2
+						],
+						[
+							5,
+							3,
+							2
+						],
+						[
+							5,
+							3,
+							2
+						],
+						[
+							5,
+							3,
+							3
+						],
+						[
+							6,
+							4,
+							3
+						],
+						[
+							6,
+							4,
+							3
+						],
+						[
+							6,
+							4,
+							3
+						],
+						[
+							6,
+							4,
+							4
+						],
+						[
+							7,
+							4,
+							4
+						],
+						[
+							7,
+							5,
+							4
+						],
+						[
+							7,
+							5,
+							4
+						],
+						[
+							7,
+							5,
+							4
+						],
+						[
+							8,
+							5,
+							4
+						],
+						[
+							8,
+							5,
+							4
+						]
+					]
+				},
+				{
+					"title": "Spell Slots per Spell Level",
+					"colLabels": [
+						"{@filter 1st|spells|level=1|class=Artificer Revisited (UAAR)}",
+						"{@filter 2nd|spells|level=2|class=Artificer Revisited (UAAR)}",
+						"{@filter 3rd|spells|level=3|class=Artificer Revisited (UAAR)}",
+						"{@filter 4th|spells|level=4|class=Artificer Revisited (UAAR)}",
+						"{@filter 5th|spells|level=5|class=Artificer Revisited (UAAR)}"
+					],
+					"rows": [
+						[
+							2,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							2,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							1,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							1,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							1
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							1
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							2
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							2
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Magical Tinkering|Artificer (Revisited)|UAArtificerRevisited|1",
+				"Spellcasting|Artificer (Revisited)|UAArtificerRevisited|1",
+				"Infuse Item|Artificer (Revisited)|UAArtificerRevisited|2",
+				{
+					"classFeature": "Artificer Specialist|Artificer (Revisited)|UAArtificerRevisited|3",
+					"gainSubclassFeature": true
+				},
+				"Tool Expertise|Artificer (Revisited)|UAArtificerRevisited|3",
+				"Ability Score Improvement|Artificer (Revisited)|UAArtificerRevisited|4",
+				"Proficiency Versatility|Artificer (Revisited)|UAArtificerRevisited|4|UAClassFeatureVariants",
+				"Arcane Armament|Artificer (Revisited)|UAArtificerRevisited|5",
+				{
+					"classFeature": "Artificer Specialist Feature|Artificer (Revisited)|UAArtificerRevisited|6",
+					"gainSubclassFeature": true
+				},
+				"Ability Score Improvement|Artificer (Revisited)|UAArtificerRevisited|8",
+				"Proficiency Versatility|Artificer (Revisited)|UAArtificerRevisited|8|UAClassFeatureVariants",
+				"The Right Cantrip for the Job|Artificer (Revisited)|UAArtificerRevisited|10",
+				"Ability Score Improvement|Artificer (Revisited)|UAArtificerRevisited|12",
+				"Proficiency Versatility|Artificer (Revisited)|UAArtificerRevisited|12|UAClassFeatureVariants",
+				{
+					"classFeature": "Artificer Specialist Feature|Artificer (Revisited)|UAArtificerRevisited|14",
+					"gainSubclassFeature": true
+				},
+				"Ability Score Improvement|Artificer (Revisited)|UAArtificerRevisited|16",
+				"Proficiency Versatility|Artificer (Revisited)|UAArtificerRevisited|16|UAClassFeatureVariants",
+				"Spell-Storing Item|Artificer (Revisited)|UAArtificerRevisited|18",
+				"Ability Score Improvement|Artificer (Revisited)|UAArtificerRevisited|19",
+				"Proficiency Versatility|Artificer (Revisited)|UAArtificerRevisited|19|UAClassFeatureVariants",
+				"Soul of Artifice|Artificer (Revisited)|UAArtificerRevisited|20"
+			],
+			"subclassTitle": "Artificer Specialist",
+			"subclasses": [
+				{
+					"name": "Alchemist",
+					"shortName": "Alchemist",
+					"source": "UAArtificerRevisited",
+					"page": 6,
+					"subclassFeatures": [
+						"Alchemist|Artificer (Revisited)|UAArtificerRevisited|Alchemist|UAArtificerRevisited|3",
+						"Alchemical Mastery|Artificer (Revisited)|UAArtificerRevisited|Alchemist|UAArtificerRevisited|6",
+						"Chemical Savant|Artificer (Revisited)|UAArtificerRevisited|Alchemist|UAArtificerRevisited|14"
+					]
+				},
+				{
+					"name": "Archivist",
+					"shortName": "Archivist",
+					"source": "UAArtificerRevisited",
+					"page": 7,
+					"isReprinted": true,
+					"subclassFeatures": [
+						"Archivist|Artificer (Revisited)|UAArtificerRevisited|Archivist|UAArtificerRevisited|3",
+						"Mind Network|Artificer (Revisited)|UAArtificerRevisited|Archivist|UAArtificerRevisited|6",
+						"Pure Information|Artificer (Revisited)|UAArtificerRevisited|Archivist|UAArtificerRevisited|14"
+					]
+				},
+				{
+					"name": "Artillerist",
+					"shortName": "Artillerist",
+					"source": "UAArtificerRevisited",
+					"page": 9,
+					"subclassFeatures": [
+						"Artillerist|Artificer (Revisited)|UAArtificerRevisited|Artillerist|UAArtificerRevisited|3",
+						"Wand Prototype|Artificer (Revisited)|UAArtificerRevisited|Artillerist|UAArtificerRevisited|6",
+						"Fortified Position|Artificer (Revisited)|UAArtificerRevisited|Artillerist|UAArtificerRevisited|14"
+					]
+				},
+				{
+					"name": "Battle Smith",
+					"shortName": "Battle Smith",
+					"source": "UAArtificerRevisited",
+					"page": 11,
+					"subclassFeatures": [
+						"Battle Smith|Artificer (Revisited)|UAArtificerRevisited|Battle Smith|UAArtificerRevisited|3",
+						"Arcane Jolt|Artificer (Revisited)|UAArtificerRevisited|Battle Smith|UAArtificerRevisited|6",
+						"Improved Defender|Artificer (Revisited)|UAArtificerRevisited|Battle Smith|UAArtificerRevisited|14"
+					]
+				}
+			],
+			"fluff": [
+				{
+					"name": "Artificer",
+					"page": 1,
+					"source": "UAArtificerRevisited",
+					"type": "section",
+					"entries": [
+						"Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting temporary and permanent magical objects. To cast a spell, an artificer could use {@item alchemist's supplies|PHB} to create a potent elixir, {@item calligrapher's supplies|PHB} to inscribe a sigil of power on an ally's armor, or {@item tinker's tools|PHB} to craft a temporary charm. The magic of artificers is tied to their tools and their talents.",
+						{
+							"type": "entries",
+							"name": "Arcane Science",
+							"entries": [
+								"In the world of Eberron, arcane magic has been harnessed as a form of science and deployed throughout society. Artificers reflect this development. Their knowledge of magical devices, and their ability to infuse mundane items with magical energy, allows the grand magical projects of Eberron to continue running. During the Last War, artificers were marshaled on a massive scale. Many lives were saved because of the inventions of brave artificers, but also countless lives were lost because of the mass destruction that artificers' creations unleashed."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Seekers of New Lore",
+							"entries": [
+								"Nothing excites an artificer quite like uncovering a new metal or discovering a source of elemental energy. In artificer circles, new inventions and strange discoveries create the most excitement. Artificers who wish to make a mark must find something fresh, rather than uncover someone else's work.",
+								"This drive for novelty pushes artificers to become adventurers. Eberron's main travel routes and populated regions have long since been explored. Thus, artificers take to the edge of civilization in hopes of making the next great discovery in arcane research."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Creating an Artificer",
+							"entries": [
+								"When creating an artificer character, think about your character's background and drive for adventure. Does the character have a rival? What is the character's relationship with the artisan or artificer who taught the basics of the craft? Talk to your DM about the role played by artificers in the campaign, and what sort of organizations and NPCs you might have ties to.",
+								{
+									"type": "entries",
+									"name": "Quick Build",
+									"entries": [
+										"You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the {@background guild artisan} background."
+									]
+								}
+							]
+						},
+						{
+							"type": "inset",
+							"name": "Artificers in Other Worlds",
+							"entries": [
+								"Eberron is the world most associated with artificers, yet the class can be found throughout the multiverse. In the Forgotten Realms, for example, the island of Lantan is home to many artificers, and in the world of Dragonlance, tinker gnomes are often members of this class. The strange technologies in the Barrier Peaks of the World of Greyhawk have inspired some folk to walk the path of the artificer, and in Mystara, various nations employ artificers to keep airships and other wondrous devices operational. In the City of Sigil, artificers share discoveries from throughout the cosmos, and one in particular\u2014the gnome inventor named Vi\u2014runs a multiverse-spanning business from there. In the worldcity Ravnica, the Izzet League trains numerous artificers, the destructiveness of whom is unparalleled in other worlds, except by the tinker gnomes of Krynn."
+							]
+						},
+						{
+							"type": "inset",
+							"name": "Optional Rule: Firearm Proficiency",
+							"entries": [
+								"The creation and operation of gunpowder weapons have been discovered in various corners of the D&D multiverse. If your Dungeon Master uses the rules on firearms in the Dungeon Master's Guide (p. 267) and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them."
+							]
+						},
+						{
+							"type": "inset",
+							"name": "Optional Rule: Multiclassing",
+							"entries": [
+								"If your group uses the optional rule on multiclassing in the Player's Handbook (p. 163), here's what you need to know if you choose artificer as one of your classes.",
+								{
+									"type": "entries",
+									"name": "Ability Score Minimum",
+									"entries": [
+										"As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Proficiencies Gained",
+									"entries": [
+										"If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, {@item thieves' tools|PHB}, {@item tinker's tools|PHB}."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Extra Attack",
+									"entries": [
+										"The Arcane Armament feature doesn't give you an additional attack if you also have the Extra Attack feature."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Spell Slots",
+									"entries": [
+										"Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots."
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Artificer",
+			"source": "TCE",
+			"page": 9,
+			"otherSources": [
+				{
+					"source": "ERLW",
+					"page": 54
+				}
+			],
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"con",
+				"int"
+			],
+			"spellcastingAbility": "int",
+			"casterProgression": "artificer",
+			"preparedSpells": "<$level$> / 2 + <$int_mod$>",
+			"cantripProgression": [
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				3,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"optionalfeatureProgression": [
+				{
+					"name": "Infusions",
+					"featureType": "AI",
+					"progression": [
+						0,
+						4,
+						4,
+						4,
+						4,
+						6,
+						6,
+						6,
+						6,
+						8,
+						8,
+						8,
+						8,
+						10,
+						10,
+						10,
+						10,
+						12,
+						12,
+						12
+					]
+				}
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"{@item shield|phb|shields}"
+				],
+				"weapons": [
+					"simple",
+					{
+						"proficiency": "firearms",
+						"optional": true
+					}
+				],
+				"tools": [
+					"{@item thieves' tools|PHB}",
+					"{@item tinker's tools|PHB}",
+					"one type of {@item artisan's tools|PHB} of your choice"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"history",
+								"investigation",
+								"medicine",
+								"nature",
+								"perception",
+								"sleight of hand"
+							],
+							"count": 2
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"any two {@filter simple weapons|items|source=phb|category=basic|type=simple weapon} of your choice",
+					"a {@item light crossbow|phb} and {@item crossbow bolts (20)|phb|20 bolts}",
+					"(a) {@item studded leather armor|phb} or (b) {@item scale mail|phb}",
+					"{@item thieves' tools|phb} and a {@item dungeoneer's pack|phb}"
+				],
+				"goldAlternative": "{@dice 5d4 × 10|5d4 × 10|Starting Gold}",
+				"defaultData": [
+					{
+						"_": [
+							{
+								"equipmentType": "weaponSimple",
+								"quantity": 2
+							}
+						]
+					},
+					{
+						"_": [
+							"light crossbow|phb",
+							"crossbow bolts (20)|phb"
+						]
+					},
+					{
+						"a": [
+							"studded leather armor|phb"
+						],
+						"b": [
+							"scale mail|phb"
+						]
+					},
+					{
+						"_": [
+							"thieves' tools|phb",
+							"dungeoneer's pack|phb"
+						]
+					}
+				]
+			},
+			"multiclassing": {
+				"requirements": {
+					"int": 13
+				},
+				"proficienciesGained": {
+					"armor": [
+						"light",
+						"medium",
+						"{@item shield|phb|shields}"
+					],
+					"tools": [
+						"{@item thieves' tools|PHB}",
+						"{@item tinker's tools|PHB}"
+					]
+				}
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"{@filter Infusions Known|optionalfeatures|feature type=ai|source=ERLW}",
+						"Infused Items",
+						"{@filter Cantrips Known|spells|level=0|class=artificer}"
+					],
+					"rows": [
+						[
+							0,
+							0,
+							2
+						],
+						[
+							4,
+							2,
+							2
+						],
+						[
+							4,
+							2,
+							2
+						],
+						[
+							4,
+							2,
+							2
+						],
+						[
+							4,
+							2,
+							2
+						],
+						[
+							6,
+							3,
+							2
+						],
+						[
+							6,
+							3,
+							2
+						],
+						[
+							6,
+							3,
+							2
+						],
+						[
+							6,
+							3,
+							2
+						],
+						[
+							8,
+							4,
+							3
+						],
+						[
+							8,
+							4,
+							3
+						],
+						[
+							8,
+							4,
+							3
+						],
+						[
+							8,
+							4,
+							3
+						],
+						[
+							10,
+							5,
+							4
+						],
+						[
+							10,
+							5,
+							4
+						],
+						[
+							10,
+							5,
+							4
+						],
+						[
+							10,
+							5,
+							4
+						],
+						[
+							12,
+							6,
+							4
+						],
+						[
+							12,
+							6,
+							4
+						],
+						[
+							12,
+							6,
+							4
+						]
+					]
+				},
+				{
+					"title": "Spell Slots per Spell Level",
+					"colLabels": [
+						"{@filter 1st|spells|level=1|class=Artificer}",
+						"{@filter 2nd|spells|level=2|class=Artificer}",
+						"{@filter 3rd|spells|level=3|class=Artificer}",
+						"{@filter 4th|spells|level=4|class=Artificer}",
+						"{@filter 5th|spells|level=5|class=Artificer}"
+					],
+					"rows": [
+						[
+							2,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							2,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							1,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							1,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							1
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							1
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							2
+						],
+						[
+							4,
+							3,
+							3,
+							3,
+							2
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Optional Rule: Firearm Proficiency|Artificer|TCE|1",
+				"Magical Tinkering|Artificer|TCE|1",
+				"Spellcasting|Artificer|TCE|1",
+				"Infuse Item|Artificer|TCE|2",
+				{
+					"classFeature": "Artificer Specialist|Artificer|TCE|3",
+					"gainSubclassFeature": true
+				},
+				"The Right Tool for the Job|Artificer|TCE|3",
+				"Ability Score Improvement|Artificer|TCE|4",
+				"Proficiency Versatility|Artificer|TCE|4|UAClassFeatureVariants",
+				{
+					"classFeature": "Artificer Specialist Feature|Artificer|TCE|5",
+					"gainSubclassFeature": true
+				},
+				"Tool Expertise|Artificer|TCE|6",
+				"Flash of Genius|Artificer|TCE|7",
+				"Ability Score Improvement|Artificer|TCE|8",
+				"Proficiency Versatility|Artificer|TCE|8|UAClassFeatureVariants",
+				{
+					"classFeature": "Artificer Specialist Feature|Artificer|TCE|9",
+					"gainSubclassFeature": true
+				},
+				"Magic Item Adept|Artificer|TCE|10",
+				"Spell-Storing Item|Artificer|TCE|11",
+				"Ability Score Improvement|Artificer|TCE|12",
+				"Proficiency Versatility|Artificer|TCE|12|UAClassFeatureVariants",
+				"Magic Item Savant|Artificer|TCE|14",
+				{
+					"classFeature": "Artificer Specialist Feature|Artificer|TCE|15",
+					"gainSubclassFeature": true
+				},
+				"Ability Score Improvement|Artificer|TCE|16",
+				"Proficiency Versatility|Artificer|TCE|16|UAClassFeatureVariants",
+				"Magic Item Master|Artificer|TCE|18",
+				"Ability Score Improvement|Artificer|TCE|19",
+				"Proficiency Versatility|Artificer|TCE|19|UAClassFeatureVariants",
+				"Soul of Artifice|Artificer|TCE|20"
+			],
+			"subclassTitle": "Artificer Specialist",
+			"subclasses": [
+				{
+					"name": "Armorer (UA)",
+					"shortName": "Armorer (UA)",
+					"source": "UA2020SubclassesPt3",
+					"page": 1,
+					"isReprinted": true,
+					"additionalSpells": [
+						{
+							"prepared": {
+								"3": [
+									"magic missile",
+									"shield"
+								],
+								"5": [
+									"mirror image",
+									"shatter"
+								],
+								"9": [
+									"hypnotic pattern",
+									"lightning bolt"
+								],
+								"13": [
+									"fire shield",
+									"greater invisibility"
+								],
+								"17": [
+									"passwall",
+									"wall of force"
+								]
+							}
+						}
+					],
+					"subclassFeatures": [
+						"Armorer|Artificer|TCE|Armorer (UA)|UA2020SubclassesPt3|3",
+						"Extra Attack|Artificer|TCE|Armorer (UA)|UA2020SubclassesPt3|5",
+						"Armor Modifications|Artificer|TCE|Armorer (UA)|UA2020SubclassesPt3|9",
+						"Perfected Armor|Artificer|TCE|Armorer (UA)|UA2020SubclassesPt3|15"
+					]
+				},
+				{
+					"name": "Alchemist",
+					"shortName": "Alchemist",
+					"source": "TCE",
+					"page": 14,
+					"otherSources": [
+						{
+							"source": "ERLW",
+							"page": 58
+						}
+					],
+					"additionalSpells": [
+						{
+							"prepared": {
+								"3": [
+									"healing word",
+									"ray of sickness"
+								],
+								"5": [
+									"flaming sphere",
+									"melf's acid arrow"
+								],
+								"9": [
+									"gaseous form",
+									"mass healing word"
+								],
+								"13": [
+									"blight",
+									"death ward"
+								],
+								"17": [
+									"cloudkill",
+									"raise dead"
+								]
+							}
+						}
+					],
+					"subclassFeatures": [
+						"Alchemist|Artificer|TCE|Alchemist|TCE|3",
+						"Alchemical Savant|Artificer|TCE|Alchemist|TCE|5",
+						"Restorative Reagents|Artificer|TCE|Alchemist|TCE|9",
+						"Chemical Mastery|Artificer|TCE|Alchemist|TCE|15"
+					]
+				},
+				{
+					"name": "Armorer",
+					"shortName": "Armorer",
+					"source": "TCE",
+					"page": 15,
+					"additionalSpells": [
+						{
+							"prepared": {
+								"3": [
+									"magic missile",
+									"thunderwave"
+								],
+								"5": [
+									"mirror image",
+									"shatter"
+								],
+								"9": [
+									"hypnotic pattern",
+									"lightning bolt"
+								],
+								"13": [
+									"fire shield",
+									"greater invisibility"
+								],
+								"17": [
+									"passwall",
+									"wall of force"
+								]
+							}
+						}
+					],
+					"subclassFeatures": [
+						"Armorer|Artificer|TCE|Armorer|TCE|3",
+						"Extra Attack|Artificer|TCE|Armorer|TCE|5",
+						"Armor Modifications|Artificer|TCE|Armorer|TCE|9",
+						"Perfected Armor|Artificer|TCE|Armorer|TCE|15"
+					]
+				},
+				{
+					"name": "Artillerist",
+					"shortName": "Artillerist",
+					"source": "TCE",
+					"page": 17,
+					"otherSources": [
+						{
+							"source": "ERLW",
+							"page": 59
+						}
+					],
+					"additionalSpells": [
+						{
+							"prepared": {
+								"3": [
+									"shield",
+									"thunderwave"
+								],
+								"5": [
+									"scorching ray",
+									"shatter"
+								],
+								"9": [
+									"fireball",
+									"wind wall"
+								],
+								"13": [
+									"ice storm",
+									"wall of fire"
+								],
+								"17": [
+									"cone of cold",
+									"wall of force"
+								]
+							}
+						}
+					],
+					"subclassFeatures": [
+						"Artillerist|Artificer|TCE|Artillerist|TCE|3",
+						"Arcane Firearm|Artificer|TCE|Artillerist|TCE|5",
+						"Explosive Cannon|Artificer|TCE|Artillerist|TCE|9",
+						"Fortified Position|Artificer|TCE|Artillerist|TCE|15"
+					]
+				},
+				{
+					"name": "Battle Smith",
+					"shortName": "Battle Smith",
+					"source": "TCE",
+					"page": 18,
+					"otherSources": [
+						{
+							"source": "ERLW",
+							"page": 60
+						}
+					],
+					"additionalSpells": [
+						{
+							"prepared": {
+								"3": [
+									"heroism",
+									"shield"
+								],
+								"5": [
+									"branding smite",
+									"warding bond"
+								],
+								"9": [
+									"aura of vitality",
+									"conjure barrage"
+								],
+								"13": [
+									"aura of purity",
+									"fire shield"
+								],
+								"17": [
+									"banishing smite",
+									"mass cure wounds"
+								]
+							}
+						}
+					],
+					"subclassFeatures": [
+						"Battle Smith|Artificer|TCE|Battle Smith|TCE|3",
+						"Extra Attack|Artificer|TCE|Battle Smith|TCE|5",
+						"Arcane Jolt|Artificer|TCE|Battle Smith|TCE|9",
+						"Improved Defender|Artificer|TCE|Battle Smith|TCE|15"
+					]
+				}
+			],
+			"fluff": [
+				{
+					"name": "Artificer",
+					"type": "section",
+					"entries": [
+						"Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections. Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.",
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Artificers in Many Worlds",
+									"entries": [
+										"Throughout the D&D multiverse, artificers create inventions and magic items of peace and war. Many lives have been brightened or saved because of the work of kind artificers, but countless lives have also been lost because of the mass destruction unleashed by certain artificers' creations.",
+										"In the Forgotten Realms, the island of Lantan is home to many artificers, and in the world of Dragonlance, tinker gnomes are often members of this class. The strange technologies in the Barrier Peaks of the world of Greyhawk have inspired some folk to walk the path of the artificer, and in Mystara, various nations employ artificers to keep airships and other wondrous devices operational.",
+										"Artificers in the City of Sigil share discoveries from throughout the multiverse, and from there, the gnome artificer Vi runs a cosmos-spanning business that hires adventurers to fix problems that others deem unfixable. In Vi's home world, Eberron, magic is harnessed as a form of science and deployed throughout society, largely as a result of the wondrous ingenuity of artificers."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Creating an Artificer",
+									"entries": [
+										"To create an artificer, consult the subsections which give you hit points, proficiencies, and starting equipment. Then look at the Artificer table to see which features you get at each level. The descriptions of those features appear below."
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"Artificers invent cutting-edge problems, then try to solve them-loudly and often with collateral damage."
+									],
+									"by": "Tasha"
+								},
+								{
+									"type": "entries",
+									"name": "Multiclassing and the Artificer",
+									"entries": [
+										"If your group uses the optional rule on multiclassing in the {@book Player's Handbook|PHB}, here's what you need to know if you choose artificer as one of your classes.",
+										{
+											"type": "entries",
+											"name": "Ability Score Minimum",
+											"entries": [
+												"As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Proficiencies Gained",
+											"entries": [
+												"If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, {@item thieves' tools|PHB}, {@item tinker's tools|PHB}."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Spell Slots",
+											"entries": [
+												"Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots."
+											]
+										}
+									]
+								}
+							]
+						}
+					],
+					"source": "TCE"
+				},
+				{
+					"name": "Artificer",
+					"type": "section",
+					"entries": [
+						"Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use {@item alchemist's supplies|PHB} to create a potent elixir, {@item calligrapher's supplies|PHB} to inscribe a sigil of power on an ally's armor, or {@item tinker's tools|PHB} to craft a temporary charm. The magic of artificers is tied to their tools and their talents.",
+						{
+							"type": "entries",
+							"name": "Arcane Science",
+							"entries": [
+								"In the world of Eberron, arcane magic has been harnessed as a form of science and deployed throughout society. Artificers reflect this development. Their knowledge of magical devices, and their ability to infuse mundane items with magic, allows Eberron's most miraculous projects to continue.",
+								"During the Last War, artificers were marshaled on a massive scale. Many lives were saved because of the inventions of brave artificers, but countless lives were also lost because of the mass destruction unleashed by their creations."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Seekers of New Lore",
+							"entries": [
+								"Nothing excites an artificer quite like uncovering a new metal or discovering a source of elemental energy. In artificer circles, new inventions and strange discoveries create the most excitement. Artificers who wish to make their mark must innovate, creating something fresh, rather than iterating on familiar designs.",
+								"This drive for novelty pushes artificers to become adventurers. Eberron's main travel routes and populated regions have long since been explored. Thus, artificers seek the frontiers of civilization in hopes of making the next great discovery in arcane research."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Creating an Artificer",
+							"entries": [
+								"When creating an artificer, think about your character's relationship with the artisan who taught them their craft. Does the character have a rival? Talk to your DM about the role played by artificers in the campaign and the sort of organizations you might have ties to.",
+								{
+									"type": "inset",
+									"name": "Artificers in Other Worlds",
+									"entries": [
+										"Eberron is the world most associated with artificers, yet the class can be found throughout the D&D multiverse. In the Forgotten Realms, for example, the island of Lantan is home to many artificers, and in the world of Dragonlance, tinker gnomes are often members of this class. The strange technologies in the Barrier Peaks of the World of Greyhawk have inspired some folk to walk the path of the artificer, and in Mystara, various nations employ artificers to keep airships and other wondrous devices operational. In the City of Sigil, artificers share discoveries from throughout the cosmos, and one in particular\u2014the gnome inventor Vi\u2014has run a multiverse-spanning business from there since leaving the world of her birth, Eberron. In the world-city Ravnica, the Izzet League trains numerous artificers, the destructiveness of whom is unparalleled in other worlds\u2014except, perhaps, by the tinker gnomes of Krynn."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Quick Build",
+									"entries": [
+										"You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the {@background guild artisan} background."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Optional Rule: Multiclassing",
+									"entries": [
+										"If your group uses the optional rule on multiclassing in the {@book Player's Handbook|PHB}, here's what you need to know if you choose artificer as one of your classes.",
+										{
+											"type": "entries",
+											"name": "Ability Score Minimum",
+											"entries": [
+												"As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Proficiencies Gained",
+											"entries": [
+												"If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, {@item thieves' tools|PHB}, {@item tinker's tools|PHB}."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Spell Slots",
+											"entries": [
+												"Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots."
+											]
+										}
+									]
+								}
+							]
+						}
+					],
+					"source": "ERLW",
+					"page": 54
+				}
+			]
+		}
+	]
+	

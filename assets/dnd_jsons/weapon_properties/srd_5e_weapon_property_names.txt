@@ -1,0 +1,11 @@
+Ammunition
+Finesse
+Heavy
+Light
+Loading
+Monk
+Reach
+Special
+Thrown
+Two-Handed
+Versatile

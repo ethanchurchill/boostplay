@@ -1,0 +1,83 @@
+Antimatter Rifle
+Arrow
+Arrows (20)
+Automatic Pistol
+Automatic Rifle
+Battleaxe
+Blowgun
+Blowgun Needle
+Blowgun Needles (50)
+Breastplate
+Chain Mail
+Chain Shirt
+Club
+Crossbow Bolt
+Crossbow Bolts (20)
+Crystal
+Dagger
+Dart
+Double-Bladed Scimitar
+Energy Cell
+Flail
+Glaive
+Greataxe
+Greatclub
+Greatsword
+Halberd
+Half Plate Armor
+Hand Crossbow
+Handaxe
+Heavy Crossbow
+Hide Armor
+Hooked Shortspear
+Hunting Rifle
+Javelin
+Lance
+Laser Pistol
+Laser Rifle
+Leather Armor
+Light Crossbow
+Light Hammer
+Light Repeating Crossbow
+Longbow
+Longsword
+Mace
+Maul
+Modern Bullet
+Modern Bullets (10)
+Morningstar
+Musket
+Net
+Orb
+Padded Armor
+Pike
+Pistol
+Plate Armor
+Quarterstaff
+Rapier
+Renaissance Bullet
+Renaissance Bullets (10)
+Revolver
+Ring Mail
+Rod
+Scale Mail
+Scimitar
+Shield
+Shortbow
+Shortsword
+Shotgun
+Sickle
+Sling
+Sling Bullet
+Sling Bullets (20)
+Spear
+Spiked Armor
+Splint Armor
+Staff
+Studded Leather Armor
+Trident
+Wand
+War Pick
+Warhammer
+Whip
+Yklwa

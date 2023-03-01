@@ -1,0 +1,414 @@
+Action Surge (1 use)
+Action Surge (2 uses)
+Additional Magical Secrets
+Arcane Recovery
+Arcane Tradition
+Archdruid
+Aura improvements
+Aura of Courage
+Aura of Devotion
+Aura of Protection
+Barbarian: Ability Score Improvement 1
+Barbarian: Ability Score Improvement 2
+Barbarian: Ability Score Improvement 3
+Barbarian: Ability Score Improvement 4
+Barbarian: Ability Score Improvement 5
+Extra Attack
+Unarmored Defense
+Bard: Ability Score Improvement 1
+Bard: Ability Score Improvement 2
+Bard: Ability Score Improvement 3
+Bard: Ability Score Improvement 4
+Bard: Ability Score Improvement 5
+Choose: Expertise 1
+Choose: Expertise 2
+Bard College
+Expertise: Acrobatics
+Expertise: Animal Handling
+Expertise: Arcana
+Expertise: Athletics
+Expertise: Deception
+Expertise: History
+Expertise: Insight
+Expertise: Intimidation
+Expertise: Investigation
+Expertise: Medicine
+Expertise: Nature
+Expertise: Perception
+Expertise: Performance
+Expertise: Persuasion
+Expertise: Religion
+Expertise: Sleight of Hand
+Expertise: Stealth
+Expertise: Survival
+Bardic Inspiration (d10)
+Bardic Inspiration (d12)
+Bardic Inspiration (d6)
+Bardic Inspiration (d8)
+Beast Spells
+Blessed Healer
+Blindsense
+Bonus Cantrip
+Bonus Proficiencies
+Bonus Proficiency
+Brutal Critical (1 die)
+Brutal Critical (2 dice)
+Brutal Critical (3 dice)
+Channel Divinity
+Channel Divinity (1/rest)
+Channel Divinity (2/rest)
+Channel Divinity (3/rest)
+Channel Divinity: Preserve Life
+Channel Divinity: Sacred Weapon
+Channel Divinity: Turn the Unholy
+Channel Divinity: Turn Undead
+Choose: Additional Eldritch Invocation
+Choose: Additional Eldritch Invocation
+Choose: Additional Eldritch Invocation
+Choose: Additional Eldritch Invocation
+Choose: Additional Eldritch Invocation
+Choose: Additional Eldritch Invocation
+Choose: Additional Eldritch Invocation
+Choose: Additional Fighting Style
+Choose: Additional Metamagic
+Choose: Additional Metamagic
+Choose: Circle of the Land
+Choose: Defensive Tactics
+Choose: Dragon Ancestor
+Choose: Eldritch Invocations
+Choose: Hunter's Prey
+Choose: Metamagic
+Choose: Multiattack
+Choose: Pact Boon
+Choose: Superior Hunter's Defense
+Circle of the Land: Arctic
+Circle of the Land: Coast
+Circle of the Land: Desert
+Circle of the Land: Forest
+Circle of the Land: Grassland
+Circle of the Land: Mountain
+Circle of the Land: Swamp
+Circle Spells 1
+Circle Spells 2
+Circle Spells 3
+Circle Spells 4
+Cleansing Touch
+Cleric: Ability Score Improvement 1
+Cleric: Ability Score Improvement 2
+Cleric: Ability Score Improvement 3
+Cleric: Ability Score Improvement 4
+Cleric: Ability Score Improvement 5
+Countercharm
+Cunning Action
+Cutting Words
+Danger Sense
+Dark One's Blessing
+Dark One's Own Luck
+Defensive Tactics: Escape the Horde
+Defensive Tactics: Multiattack Defense
+Defensive Tactics: Steel Will
+Deflect Missiles
+Destroy Undead (CR 1/2 or below)
+Destroy Undead (CR 1 or below)
+Destroy Undead (CR 2 or below)
+Destroy Undead (CR 3 or below)
+Destroy Undead (CR 4 or below)
+Diamond Soul
+Disciple of Life
+Divine Domain
+Divine Health
+Divine Intervention
+Divine Intervention Improvement
+Divine Sense
+Divine Smite
+Divine Strike
+Domain Spells 1
+Domain Spells 2
+Domain Spells 3
+Domain Spells 4
+Domain Spells 5
+Draconic Presence
+Draconic Resilience
+Dragon Ancestor: Black - Acid Damage
+Dragon Ancestor: Blue - Lightning Damage
+Dragon Ancestor: Brass - Fire Damage
+Dragon Ancestor: Bronze - Lightning Damage
+Dragon Ancestor: Copper - Acid Damage
+Dragon Ancestor: Gold - Fire Damage
+Dragon Ancestor: Green - Poison Damage
+Dragon Ancestor: Red - Fire Damage
+Dragon Ancestor: Silver - Cold Damage
+Dragon Ancestor: White - Cold Damage
+Dragon Wings
+Druid: Ability Score Improvement 1
+Druid: Ability Score Improvement 2
+Druid: Ability Score Improvement 3
+Druid: Ability Score Improvement 4
+Druid: Ability Score Improvement 5
+Druid Circle
+Land's Stride
+Timeless Body
+Druidic
+Eldritch Invocation: Agonizing Blast
+Eldritch Invocation: Armor of Shadows
+Eldritch Invocation: Ascendant Step
+Eldritch Invocation: Beast Speech
+Eldritch Invocation: Beguiling Influence
+Eldritch Invocation: Bewitching Whispers
+Eldritch Invocation: Book of Ancient Secrets
+Eldritch Invocation: Chains of Carceri
+Eldritch Invocation: Devil's Sight
+Eldritch Invocation: Dreadful Word
+Eldritch Invocation: Eldritch Sight
+Eldritch Invocation: Eldritch Spear
+Eldritch Invocation: Eyes of the Rune Keeper
+Eldritch Invocation: Fiendish Vigor
+Eldritch Invocation: Gaze of Two Minds
+Eldritch Invocation: Lifedrinker
+Eldritch Invocation: Mask of Many Faces
+Eldritch Invocation: Master of Myriad Forms
+Eldritch Invocation: Minions of Chaos
+Eldritch Invocation: Mire the Mind
+Eldritch Invocation: Misty Visions
+Eldritch Invocation: One with Shadows
+Eldritch Invocation: Otherworldly Leap
+Eldritch Invocation: Repelling Blast
+Eldritch Invocation: Sculptor of Flesh
+Eldritch Invocation: Sign of Ill Omen
+Eldritch Invocation: Thief of Five Fates
+Eldritch Invocation: Thirsting Blade
+Eldritch Invocation: Visions of Distant Realms
+Eldritch Invocation: Voice of the Chain Master
+Eldritch Invocation: Whispers of the Grave
+Eldritch Invocation: Witch Sight
+Eldritch Master
+Elemental Affinity
+Elusive
+Empowered Evocation
+Empty Body
+Evocation Savant
+Extra Attack (1)
+Extra Attack (2)
+Extra Attack (3)
+Fast Hands
+Fast Movement
+Favored Enemy (1 type)
+Favored Enemy (2 types)
+Favored Enemy (3 enemies)
+Feral Instinct
+Feral Senses
+Fiendish Resilience
+Fighter: Ability Score Improvement 1
+Fighter: Ability Score Improvement 2
+Fighter: Ability Score Improvement 3
+Fighter: Ability Score Improvement 4
+Fighter: Ability Score Improvement 5
+Fighter: Ability Score Improvement 6
+Fighter: Ability Score Improvement 7
+Choose: Fighting Style
+Fighting Style: Archery
+Fighting Style: Defense
+Fighting Style: Dueling
+Fighting Style: Great Weapon Fighting
+Fighting Style: Protection
+Fighting Style: Two-Weapon Fighting
+Fighting Style: Defense
+Fighting Style: Dueling
+Fighting Style: Great Weapon Fighting
+Fighting Style: Protection
+Flexible Casting: Converting Spell Slot
+Flexible Casting: Creating Spell Slots
+Flurry of Blows
+Foe Slayer
+Font of Inspiration
+Font of Magic
+Frenzy
+Hide in Plain Sight
+Holy Nimbus
+Hunter's Prey: Colossus Slayer
+Hunter's Prey: Giant Killer
+Hunter's Prey: Horde Breaker
+Hurl Through Hell
+Improved Critical
+Improved Divine Smite
+Indomitable (1 use)
+Indomitable (2 uses)
+Indomitable (3 uses)
+Indomitable Might
+Intimidating Presence
+Jack of All Trades
+Ki
+Ki Empowered Strikes
+Lay on Hands
+Magical Secrets 1
+Magical Secrets 2
+Magical Secrets 3
+Martial Archetype
+Martial Arts
+Metamagic: Careful Spell
+Metamagic: Distant Spell
+Metamagic: Empowered Spell
+Metamagic: Extended Spell
+Metamagic: Heightened Spell
+Metamagic: Quickened Spell
+Metamagic: Subtle Spell
+Metamagic: Twinned Spell
+Mindless Rage
+Monastic Tradition
+Monk: Ability Score Improvement 1
+Monk: Ability Score Improvement 2
+Monk: Ability Score Improvement 3
+Monk: Ability Score Improvement 4
+Monk: Ability Score Improvement 5
+Evasion
+Extra Attack
+Timeless Body
+Unarmored Defense
+Multiattack: Volley
+Multiattack: Whirlwind Attack
+Mystic Arcanum (6th level)
+Mystic Arcanum (7th level)
+Mystic Arcanum (8th level)
+Mystic Arcanum (9th level)
+Natural Explorer (1 terrain type)
+Natural Explorer (2 terrain types)
+Natural Explorer (3 terrain types)
+Natural Recovery
+Nature's Sanctuary
+Nature's Ward
+Oath Spells
+Open Hand Technique
+Otherworldly Patron
+Overchannel
+Pact Magic
+Pact of the Blade
+Pact of the Chain
+Pact of the Tome
+Paladin: Ability Score Improvement 1
+Paladin: Ability Score Improvement 2
+Paladin: Ability Score Improvement 3
+Paladin: Ability Score Improvement 4
+Paladin: Ability Score Improvement 5
+Choose: Fighting Style
+Extra Attack
+Patient Defense
+Peerless Skill
+Perfect Self
+Persistent Rage
+Potent Cantrip
+Primal Champion
+Primal Path
+Primeval Awareness
+Purity of Body
+Purity of Spirit
+Quivering Palm
+Rage
+Ranger: Ability Score Improvement 1
+Ranger: Ability Score Improvement 2
+Ranger: Ability Score Improvement 3
+Ranger: Ability Score Improvement 4
+Ranger: Ability Score Improvement 5
+Ranger Archetype
+Choose: Fighting Style
+Extra Attack
+Fighting Style: Archery
+Fighting Style: Defense
+Fighting Style: Dueling
+Fighting Style: Two-Weapon Fighting
+Land's Stride
+Reckless Attack
+Relentless Rage
+Reliable Talent
+Remarkable Athlete
+Retaliation
+Rogue: Ability Score Improvement 1
+Rogue: Ability Score Improvement 2
+Rogue: Ability Score Improvement 3
+Rogue: Ability Score Improvement 4
+Rogue: Ability Score Improvement 5
+Rogue: Ability Score Improvement 6
+Choose: Expertise 1
+Choose: Expertise 2
+Evasion
+Expertise: Acrobatics
+Expertise: Animal Handling
+Expertise: Arcana
+Expertise: Athletics
+Expertise: Deception
+Expertise: History
+Expertise: Insight
+Expertise: Intimidation
+Expertise: Investigation
+Expertise: Medicine
+Expertise: Nature
+Expertise: Perception
+Expertise: Performance
+Expertise: Persuasion
+Expertise: Religion
+Expertise: Sleight of Hand
+Expertise: Stealth
+Expertise: Survival
+Expertise: Thieves' Tools
+Roguish Archetype
+Sacred Oath
+Sculpt Spells
+Second-Story Work
+Second Wind
+Signature Spell
+Slippery Mind
+Slow Fall
+Sneak Attack
+Song of Rest (d10)
+Song of Rest (d12)
+Song of Rest (d6)
+Song of Rest (d8)
+Sorcerer: Ability Score Improvement 1
+Sorcerer: Ability Score Improvement 2
+Sorcerer: Ability Score Improvement 3
+Sorcerer: Ability Score Improvement 4
+Sorcerer: Ability Score Improvement 5
+Sorcerous Origin
+Sorcerous Restoration
+Spell Mastery
+Spellcasting: Bard
+Spellcasting: Cleric
+Spellcasting: Druid
+Spellcasting: Paladin
+Spellcasting: Ranger
+Spellcasting: Sorcerer
+Spellcasting: Wizard
+Step of the Wind
+Stillness of Mind
+Stroke of Luck
+Stunning Strike
+Superior Critical
+Superior Hunter's Defense: Evasion
+Superior Hunter's Defense: Stand Against the Tide
+Superior Hunter's Defense: Uncanny Dodge
+Superior Inspiration
+Supreme Healing
+Supreme Sneak
+Survivor
+Thief's Reflexes
+Thieves' Cant
+Tongue of the Sun and Moon
+Tranquility
+Unarmored Movement 1
+Unarmored Movement 2
+Uncanny Dodge
+Use Magic Device
+Vanish
+Warlock: Ability Score Improvement 1
+Warlock: Ability Score Improvement 2
+Warlock: Ability Score Improvement 3
+Warlock: Ability Score Improvement 4
+Warlock: Ability Score Improvement 5
+Wholeness of Body
+Wild Shape (CR 1/2 or below, no flying speed)
+Wild Shape (CR 1/4 or below, no flying or swim speed)
+Wild Shape (CR 1 or below)
+Wizard: Ability Score Improvement 1
+Wizard: Ability Score Improvement 2
+Wizard: Ability Score Improvement 3
+Wizard: Ability Score Improvement 4
+Wizard: Ability Score Improvement 5

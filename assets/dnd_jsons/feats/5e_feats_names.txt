@@ -1,0 +1,166 @@
+Aberrant Dragonmark
+Acrobat
+Actor
+Alchemist
+Alert
+Animal Handler
+Arcanist
+Artificer Initiate
+Artificer Initiate
+Athlete
+Barbed Hide
+Blade Mastery
+Bountiful Luck
+Bountiful Luck
+Brawny
+Burglar
+Charger
+Chef
+Chef
+Critter Friend
+Crossbow Expert
+Crusher
+Crusher
+Defensive Duelist
+Diplomat
+Dragon Fear
+Dragon Fear
+Dragon Hide
+Dragon Hide
+Dragon Wings
+Dragonmark of Detection
+Dragonmark of Finding
+Dragonmark of Handling
+Dragonmark of Healing
+Dragonmark of Hospitality
+Dragonmark of Making
+Dragonmark of Passage
+Dragonmark of Scribing
+Dragonmark of Sentinel
+Dragonmark of Shadow
+Dragonmark of Storm
+Dragonmark of Warding
+Drow High Magic
+Drow High Magic
+Dual Wielder
+Dungeon Delver
+Durable
+Dwarf Resilience
+Dwarven Fortitude
+Eldritch Adept
+Eldritch Adept
+Elemental Adept
+Elven Accuracy
+Elven Accuracy
+Empathic
+Everybody's Friend
+Fade Away
+Fade Away
+Fell Handed
+Fey Teleportation
+Fey Teleportation
+Fey Touched
+Fey Touched
+Fighting Initiate
+Fighting Initiate
+Flail Mastery
+Flames of Phlegethos
+Flames of Phlegethos
+Gift of the Chromatic Dragon
+Gift of the Gem Dragon
+Gift of the Metallic Dragon
+Gourmand
+Grappler
+Great Weapon Master
+Grudge-Bearer
+Gunner
+Gunner
+Healer
+Heavily Armored
+Heavy Armor Master
+Historian
+Human Determination
+Infernal Constitution
+Infernal Constitution
+Inspiring Leader
+Investigator
+Keen Mind
+Lightly Armored
+Linguist
+Lucky
+Mage Slayer
+Magic Initiate
+Martial Adept
+Master of Disguise
+Medic
+Medium Armor Master
+Menacing
+Metabolic Control
+Metamagic Adept
+Metamagic Adept
+Mobile
+Moderately Armored
+Mounted Combatant
+Naturalist
+Observant
+Orcish Aggression
+Orcish Fury
+Orcish Fury
+Perceptive
+Performer
+Piercer
+Piercer
+Poisoner
+Poisoner
+Polearm Master
+Practiced Expert
+Prodigy
+Prodigy
+Quick-Fingered
+Quicksmithing
+Resilient
+Revenant Blade
+Ritual Caster
+Savage Attacker
+Second Chance
+Second Chance
+Sentinel
+Servo Crafting
+Shadow Touched
+Shadow Touched
+Sharpshooter
+Shield Master
+Shield Training
+Silver-Tongued
+Skill Expert
+Skilled
+Skulker
+Slasher
+Slasher
+Spear Mastery
+Spell Sniper
+Squat Nimbleness
+Squat Nimbleness
+Stealthy
+Survivalist
+Svirfneblin Magic
+Tandem Tactician
+Tavern Brawler
+Telekinetic
+Telekinetic
+Telekinetic
+Telepathic
+Telepathic
+Telepathic
+Theologian
+Tough
+Tower of Iron Will
+Tracker
+Vampiric Exultation
+War Caster
+Warhammer Master
+Weapon Master
+Wild Talent
+Wonder Maker
+Wood Elf Magic
+Wood Elf Magic

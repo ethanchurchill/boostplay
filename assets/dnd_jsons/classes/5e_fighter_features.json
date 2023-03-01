@@ -1,0 +1,503 @@
+[
+		{
+			"name": "Fighting Style",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 1,
+			"entries": [
+				"You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.",
+				{
+					"type": "options",
+					"count": 1,
+					"entries": [
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Archery"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Close Quarters Shooter|UALightDarkUnderdark"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Defense"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Dueling"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Great Weapon Fighting"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Mariner|UAWaterborneAdventures"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Protection"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Tunnel Fighter|UALightDarkUnderdark"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Two-Weapon Fighting"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Superior Technique|UAClassFeatureVariants"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Blind Fighting|UAClassFeatureVariants"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Interception|UAClassFeatureVariants"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Thrown Weapon Fighting|UAClassFeatureVariants"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Unarmed Fighting|UAClassFeatureVariants"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Blind Fighting|TCE"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Interception|TCE"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Superior Technique|TCE"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Thrown Weapon Fighting|TCE"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Unarmed Fighting|TCE"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Maneuver Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 5,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 1,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 1st-level feature (enhances Maneuvers)}",
+				"If you know any maneuvers from the fighter's Battle Master archetype, you can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead."
+			]
+		},
+		{
+			"name": "Martial Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 12,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 1,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 1st-level feature (enhances Fighting Style)}",
+				"Whenever you gain a level in this class, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style."
+			]
+		},
+		{
+			"name": "Second Wind",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 1,
+			"entries": [
+				"You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to {@dice 1d10} + your fighter level.",
+				"Once you use this feature, you must finish a short or long rest before you can use it again."
+			]
+		},
+		{
+			"name": "Action Surge",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 2,
+			"entries": [
+				"Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.",
+				"Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
+			]
+		},
+		{
+			"name": "Martial Archetype",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 3,
+			"entries": [
+				"At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 4,
+			"entries": [
+				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Martial Versatility",
+			"source": "TCE",
+			"page": 41,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 4,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 4th-level fighter {@variantrule optional class features|tce|optional feature}}",
+				"Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:",
+				{
+					"type": "list",
+					"items": [
+						"Replace a {@filter fighting style|optionalfeatures|feature type=FS:F} you know with another fighting style available to fighters.",
+						"If you know any {@filter maneuvers|optionalfeatures|feature type=MV:B} from the {@class fighter|phb|Battle Master|Battle Master|phb|2-0} archetype, you can replace one maneuver you know with a different maneuver."
+					]
+				}
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 4,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 4th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Extra Attack",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 5,
+			"entries": [
+				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the {@action Attack} action on your turn.",
+				"The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 6,
+			"entries": [
+				"When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 6,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 6th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Martial Archetype feature",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 7,
+			"entries": [
+				"At 7th level, you gain a feature granted by your Martial Archetype."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 8,
+			"entries": [
+				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 8,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 8th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Indomitable",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 9,
+			"entries": [
+				"Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.",
+				"You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level."
+			]
+		},
+		{
+			"name": "Martial Archetype feature",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 10,
+			"entries": [
+				"At 10th level, you gain a feature granted by your Martial Archetype."
+			]
+		},
+		{
+			"name": "Extra Attack (2)",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 11,
+			"entries": [
+				"At 11th level, you can attack three times whenever you take the {@action Attack} action on your turn."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 12,
+			"entries": [
+				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 12,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 12th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Indomitable (two uses)",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 13,
+			"entries": [
+				"At 13th level, you can use Indomitable twice between long rests."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 14,
+			"entries": [
+				"When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 14,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 14th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Martial Archetype feature",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 15,
+			"entries": [
+				"At 15th level, you gain a feature granted by your Martial Archetype."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 16,
+			"entries": [
+				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 16,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 16th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Action Surge (two uses)",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 17,
+			"entries": [
+				"At 17th level, you can use Action Surge twice before a rest, but only once on the same turn."
+			]
+		},
+		{
+			"name": "Indomitable (three uses)",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 17,
+			"entries": [
+				"At 17th level, you can use Indomitable three times between long rests."
+			]
+		},
+		{
+			"name": "Martial Archetype feature",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 18,
+			"entries": [
+				"At 18th level, you gain a feature granted by your Martial Archetype."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 19,
+			"entries": [
+				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 19,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 19th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Extra Attack (3)",
+			"source": "PHB",
+			"page": 72,
+			"srd": true,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"level": 20,
+			"entries": [
+				"At 20th level, you can attack four times whenever you take the {@action Attack} action on your turn."
+			]
+		}
+	]

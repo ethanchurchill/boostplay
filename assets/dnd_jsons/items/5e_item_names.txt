@@ -1,0 +1,1354 @@
++1 All-Purpose Tool
++1 Amulet of the Devout
++1 Arcane Grimoire
++1 Bloodwell Vial
++1 Moon Sickle
++1 Rhythm-Maker's Drum
++1 Rod of the Pact Keeper
++1 Wand of the War Mage
++2 All-Purpose Tool
++2 Amulet of the Devout
++2 Arcane Grimoire
++2 Bloodwell Vial
++2 Moon Sickle
++2 Rhythm-Maker's Drum
++2 Rod of the Pact Keeper
++2 Wand of the War Mage
++3 All-Purpose Tool
++3 Amulet of the Devout
++3 Arcane Grimoire
++3 Bloodwell Vial
++3 Moon Sickle
++3 Rhythm-Maker's Drum
++3 Rod of the Pact Keeper
++3 Wand of the War Mage
+Abacus
+Abracadabrus
+Absorbing Tattoo
+Acid (vial)
+Acid Absorbing Tattoo
+Adamantine Bar
+Adjustable Stilts
+Airship
+Akmon, Hammer of Purphoros
+Alchemical Compendium
+Alchemist's Fire (flask)
+Alchemist's Supplies
+Alchemy Jug
+Alchemy Jug (Blue)
+Alchemy Jug (Orange)
+Ale (Gallon)
+Ale (Mug)
+Alexandrite
+Amber
+Amethyst
+Amulet
+Amulet of dinosaur feathers (Sun Empire)
+Amulet of Health
+Amulet of Proof against Detection and Location
+Amulet of Protection from Turning
+Amulet of the Black Skull
+Amulet of the Drunkard
+Amulet of the Planes
+Animated Shield
+Antitoxin (vial)
+Apparatus of Kwalish
+Aquamarine
+Arcanaloth's Music Box
+Arcane Cannon
+Arcane Propulsion Arm
+Armor of Invulnerability
+Armor of Vulnerability (Bludgeoning)
+Armor of Vulnerability (Piercing)
+Armor of Vulnerability (Slashing)
+Arrow-Catching Shield
+Assassin's Blood
+Astral Shard
+Astromancy Archive
+Atlas of Endless Horizons
+Axe Beak
+Axe of the Dwarvish Lords
+Azorius Guild Signet
+Azorius Keyrune
+Azuredge
+Azurite
+Baba Yaga's Mortar and Pestle
+Baba Yaga's Pestle
+Backpack
+Backpack Parachute
+Badge of the Watch
+Bag of Beans
+Bag of Bounty
+Bag of Devouring
+Bag of Holding
+Bag of Tricks, Gray
+Bag of Tricks, Rust
+Bag of Tricks, Tan
+Bagpipes
+Balance of Harmony
+Ball Bearing
+Ball Bearings (bag of 1,000)
+Balloon Pack
+Band of Loyalty
+Banded Agate
+Banner of the Krig Rune
+Barking Box
+Barrel
+Barrier Peaks Trinket
+Barrier Tattoo (Large)
+Barrier Tattoo (Medium)
+Barrier Tattoo (Rare)
+Barrier Tattoo (Small)
+Barrier Tattoo (Uncommon)
+Barrier Tattoo (Very Rare)
+Basic Poison (vial)
+Basket
+Battering Shield
+Battle Standard of Infernal Power
+Bead of Force
+Bead of Nourishment
+Bead of Refreshment
+Bedroll
+Bejeweled ivory drinking horn with gold filigree
+Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)
+Belashyrra's Beholder Crown
+Bell
+Bell Branch
+Belt of Cloud Giant Strength
+Belt of Dwarvenkind
+Belt of Fire Giant Strength
+Belt of Frost Giant Strength
+Belt of Hill Giant Strength
+Belt of Stone Giant Strength
+Belt of Storm Giant Strength
+Birdpipes
+Bit and bridle
+Black Crystal Tablet
+Black Dragon Mask
+Black Dragon Scale Mail
+Black Opal
+Black Pearl
+Black Sap
+Black Sapphire
+Black velvet mask stitched with silver thread
+Blackrazor
+Blackstaff
+Blade of Avernus
+Blade of Broken Mirrors
+Blanket
+Blast Scepter
+Blasting Powder
+Blight Ichor
+Block and Tackle
+Blod Stone
+Blood Fury Tattoo
+Blood Fury Tattoo
+Blood of the Lycanthrope
+Blood of the Lycanthrope Antidote
+Blood Spear
+Bloodaxe
+Bloodstone
+Blue Dragon Mask
+Blue Dragon Scale Mail
+Blue Quartz
+Blue Sapphire
+Blue Spinel
+Bob
+Bomb
+Bonecounter
+Book
+Book of Exalted Deeds
+Book of Vile Darkness
+Bookmark
+Boots of Elvenkind
+Boots of False Tracks
+Boots of Levitation
+Boots of Speed
+Boots of Striding and Springing
+Boots of the Winterlands
+Boros Guild Signet
+Boros Keyrune
+Bottle stopper cork embossed with gold leaf and set with amethysts
+Bottled Breath
+Bowl of Commanding Water Elementals
+Box of turquoise animal figurines
+Bracelet of Rock Magic
+Bracer of Flying Daggers
+Bracers of Archery
+Bracers of Defense
+Brass Dragon Scale Mail
+Brass mug with jade inlay
+Brazier of Commanding Fire Elementals
+Breathing Bubble
+Brewer's Supplies
+Bridle of Capturing
+Bronze crown
+Bronze Dragon Scale Mail
+Bronze spyglass (Brazen Coalition)
+Brooch of Living Essence
+Brooch of Shielding
+Broom of Flying
+Bucket
+Bullseye Lantern
+Burglar's Pack
+Burnt Othur Fumes
+Butcher's Bib
+Calligrapher's Supplies
+Caltrop
+Caltrops (bag of 20)
+Camel
+Candle
+Candle Mace
+Candle of Invocation
+Candle of the Deep
+Canoe
+Canvas (1 sq. yd.)
+Cap of Water Breathing
+Cape of the Mountebank
+Carnelian
+Carpenter's Tools
+Carpet of Flying, 3 ft. Ã— 5 ft.
+Carpet of Flying, 4 ft. Ã— 6 ft.
+Carpet of Flying, 5 ft. Ã— 7 ft.
+Carpet of Flying, 6 ft. Ã— 9 ft.
+Carriage
+Carrion Crawler Mucus
+Cart
+Cartographer's Map Case
+Cartographer's Tools
+Carved bone statuette
+Carved harp of exotic wood with ivory inlay and zircon gems
+Carved ivory statuette
+Carved jade statuette (River Heralds)
+Cauldron of Plenty
+Cauldron of Rebirth
+Censer of Controlling Air Elementals
+Ceremonial electrum dagger with a black pearl in the pommel
+Ceremonial silver dagger with gold pommel and black pearl (Legion of Dusk)
+Chain (10 feet)
+Chalcedony
+Chalk (1 piece)
+Chariot
+Charlatan's Die
+Charm of Plant Command
+Charred Wand of Magic Missiles
+Chest
+Chest of Preserving
+Chicken
+Chime of Opening
+Chronolometer
+Chrysoberyl
+Chrysoprase
+Chunk of Meat
+Cinnamon
+Circlet of Blasting
+Circlet of Human Perfection
+Citrine
+Claw of the Wyrm Rune
+Claws of the Umber Hulk
+Cleansing Stone
+Climber's Kit
+Cloak of Arachnida
+Cloak of Billowing
+Cloak of Displacement
+Cloak of Elvenkind
+Cloak of Invisibility
+Cloak of Many Fashions
+Cloak of Protection
+Cloak of the Bat
+Cloak of the Manta Ray
+Clockwork Amulet
+Clockwork Dog
+Cloth-of-gold vestments
+Cloth-of-gold vestments (Legion of Dusk)
+Clothes of Mending
+Clothing, cold weather
+Cloves
+Cobbler's Tools
+Coiling Grasp Tattoo
+Coiling Grasp Tattoo
+Coin of Decisionry
+Coin of Delving
+Cold Absorbing Tattoo
+Common Clothes
+Common Glamerweave
+Common Wine (Pitcher)
+Component Pouch
+Concertina
+Conch of Safe Rest
+Conch of Teleportation
+Cook's Utensils
+Copper
+Copper (cp)
+Copper Alms-Coin
+Copper chalice with silver filigree
+Copper Dragon Scale Mail
+Copper stein with silver filigree (Brazen Coalition)
+Copper Zib
+Coral
+Costume Clothes
+Cotton Cloth (1 sq. yd.)
+Cow
+Cracked Driftglobe
+Crampons
+Crook of Rao
+Crossbow Bolt Case
+Crowbar
+Crown of the Forest
+Crystal Ball
+Crystal Ball of Mind Reading
+Crystal Ball of Telepathy
+Crystal Ball of True Seeing
+Crystalline Chronicle
+Cube of Force
+Cubic Gate
+Cursed Luckstone
+Daern's Instant Fortress
+Dagger of Blindsight
+Dagger of Guitar Solos
+Dagger of Venom
+Dancing Monkey Fruit
+Danoth's Visor
+Dark Shard Amulet
+Dawnbringer
+Decanter of Endless Water
+Deck of Illusions
+Deck of Many Things
+Deck of Several Things
+Dekella, Bident of Thassa
+Demon Armor
+Demonomicon of Iggwilv
+Devastation Orb of Air
+Devastation Orb of Earth
+Devastation Orb of Fire
+Devastation Orb of Water
+Devlin's Staff of Striking
+Devotee's Censer
+Diamond
+Dice Set
+Dimensional Loop
+Dimensional Shackles
+Dimir Guild Signet
+Dimir Keyrune
+Diplomat's Pack
+Disguise Kit
+Dispelling Stone
+Docent
+Documancy Satchel
+Dodecahedron of Doom
+Dogsled
+Donkey
+Draakhorn
+Draconic Longsword
+Draft Horse
+Dragon
+Dragon Sensing Longsword
+Dragon Thighbone Club
+Dragon's Blood
+Dragonchess Set
+Dragongleam
+Dragonguard
+Dragonstaff of Ahghairon
+Dragontooth Dagger
+Dread Helm
+Dreamlily
+Driftglobe
+Drow Poison
+Drown
+Drum
+Dulcimer
+Dungeoneer's Pack
+Duplicitous Manuscript
+Duskcrusher
+Dust of Deliciousness
+Dust of Disappearance
+Dust of Dryness
+Dust of Sneezing and Choking
+Dust of the Mummy
+Dwarven Plate
+Dwarven Thrower
+Dynamite (stick)
+Dyrrn's Tentacle Whip
+Eagle Whistle
+Ear Horn of Hearing
+Earworm
+Efreeti Bottle
+Efreeti Chain
+Elder Cartographer's Glossography
+Eldritch Claw Tattoo
+Eldritch Claw Tattoo
+Electrum (ep)
+Electrum 50-Zib Coin
+Elemental Essence Shard
+Elemental Essence Shard (Air)
+Elemental Essence Shard (Earth)
+Elemental Essence Shard (Fire)
+Elemental Essence Shard (Water)
+Elemental Gem, Blue Sapphire
+Elemental Gem, Emerald
+Elemental Gem, Red Corundum
+Elemental Gem, Yellow Diamond
+Elephant
+Elixir of Health
+Elven Chain
+Elven Trinket
+Emblem
+Embroidered glove set with jewel chips
+Embroidered silk and velvet mantle set with numerous moonstones
+Embroidered silk handkerchief
+Emerald
+Enchanted Three-Dragon Ante Set
+Enduring Spellbook
+Entertainer's Pack
+Ephixis, Bow of Nylea
+Ersatz Eye
+Essence of Ether
+Everbright Lantern
+Eversmoking Bottle
+Exotic Saddle
+Explorer's Pack
+Explosive Seed
+Eye Agate
+Eye of Vecna
+Eye patch with a mock eye set in blue sapphire and moonstone
+Eye patch with a mock eye set in blue sapphire and moonstone (Brazen Coalition)
+Eyes of Charming
+Eyes of Minute Seeing
+Eyes of the Eagle
+Failed Experiment Wand
+Falkir's Helm of Pigheadedness
+Fane-Eater
+Far Gear
+Far Realm Shard
+Feather of Diatryma Summoning
+Feather Token
+Feathered mantle with emerald clasp (Sun Empire)
+Feed (per day)
+Feywild Shard
+Figurine of Wondrous Power, Bronze Griffon
+Figurine of Wondrous Power, Ebony Fly
+Figurine of Wondrous Power, Golden Lions
+Figurine of Wondrous Power, Ivory Goats
+Figurine of Wondrous Power, Marble Elephant
+Figurine of Wondrous Power, Obsidian Steed
+Figurine of Wondrous Power, Onyx Dog
+Figurine of Wondrous Power, Serpentine Owl
+Figurine of Wondrous Power, Silver Raven
+Finder's Goggles
+Fine Clothes
+Fine gold chain set with a fire opal
+Fine gold chain with fire opals (Legion of Dusk)
+Fine robe with dinosaur feathers and silver embroidery (Sun Empire)
+Fine steel rapier with gold filigree hilt (Legion of Dusk)
+Fine Wine (Bottle)
+Finely articulated jade glove (River Heralds)
+Fire Absorbing Tattoo
+Fire Opal
+Fishing Tackle
+Flame Tongue Shortsword of Greed
+Flask
+Flensing Claws (Huge)
+Flensing Claws (Large)
+Flensing Claws (Medium)
+Flensing Claws (Small)
+Flour
+Flute
+Flying Chariot
+Folding Boat
+Force Absorbing Tattoo
+Forgery Kit
+Fragmentation Grenade
+Fulminating Treatise
+Galder's Bubble Pipe
+Galley
+Garnet
+Gauntlets of Flaming Fury
+Gauntlets of Ogre Power
+Gavel of the Venn Rune
+Gem of Brightness
+Gem of Seeing
+Ghost Lantern
+Ghost Step Tattoo
+Ghost Step Tattoo
+Ginger
+Glamoured Studded Leather
+Glass Bottle
+Glassblower's Tools
+Glaur
+Gloves of Missile Snaring
+Gloves of Soul Catching
+Gloves of Swimming and Climbing
+Gloves of Thievery
+Gnomengarde Grenade
+Goat
+Goggles of Night
+Goggles of Object Reading
+Gold
+Gold (gp)
+Gold 5-Zib Coin
+Gold basin with rubies (Legion of Dusk)
+Gold bird cage with electrum filigree
+Gold chalice (Legion of Dusk)
+Gold chalice set with emeralds (Legion of Dusk)
+Gold circlet set with four aquamarines
+Gold cup set with emeralds
+Gold dragon comb set with red garnets as eyes
+Gold Dragon Scale Mail
+Gold jewelry box with platinum filigree
+Gold jewelry box with platinum filigree (Brazen Coalition)
+Gold locket with a painted portrait inside
+Gold locket with a painted portrait inside (Legion of Dusk)
+Gold music box
+Gold music box (Brazen Coalition)
+Gold pendant with black onyx (Legion of Dusk)
+Gold ring set with bloodstones
+Gold ring with turquoise (Legion of Dusk)
+Gold Zino
+Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)
+Gold-plated sextant with topaz (Brazen Coalition)
+Golgari Guild Signet
+Golgari Keyrune
+Grappling Hook
+Gravenhollow Compass Ring
+Greater Silver Sword
+Green Copper Ewer
+Green Dragon Mask
+Green Dragon Scale Mail
+Grenade Launcher
+Grimoire Infinitus
+Grovelthrash
+Gruul Guild Signet
+Gruul Keyrune
+Guardian Emblem
+Gulthias Staff
+Gunpowder Horn
+Gunpowder Keg
+Gurt's Greataxe
+Hacking Tools
+Hag Eye
+Hammer
+Hammer of Thunderbolts
+Hand Drum
+Hand of Vecna
+Harbor Moon
+Hat of Disguise
+Hat of Vermin
+Hat of Wizardry
+Hazirawn
+Headband of Intellect
+Healer's Kit
+Heart Weaver's Primer
+Heartstone
+Hell Hound Cloak
+Helm of Brilliance
+Helm of Comprehending Languages
+Helm of Devil Command
+Helm of Telepathy
+Helm of Teleportation
+Helm of the Gods
+Helm of the Scavenger
+Helm of Underwater Action
+Hematite
+Hempen Rope (50 feet)
+Herbalism Kit
+Hew
+Heward's Handy Haversack
+Heward's Handy Spice Pouch
+Heward's Hireling Armor
+Hide of the Feral Guardian
+Holy Symbol of Ravenkind
+Holy Water (flask)
+Hooded Lantern
+Hook of Fisher's Delight
+Horn
+Horn of Blasting
+Horn of Silent Alarm
+Horn of the Endless Maze
+Horn of Valhalla, Brass
+Horn of Valhalla, Bronze
+Horn of Valhalla, Iron
+Horn of Valhalla, Silver
+Horned Ring
+Horseshoes of a Zephyr
+Horseshoes of Speed
+Hourglass
+Hunk of Cheese
+Hunter's Coat
+Hunting Trap
+Icewind Dale Trinket
+Icon of Ravenloft
+Illuminator's Tattoo
+Illuminator's Tattoo
+Illusionist's Bracers
+Immovable Rod
+Infernal Puzzle Box
+Infernal Tack
+Infiltrator's Key
+Ingot of the Skold Rune
+Ink (1-ounce bottle)
+Ink Pen
+Insect Repellent (block of incense)
+Insect Repellent (greasy salve)
+Insignia of Claws
+Instrument of Illusions
+Instrument of Scribing
+Instrument of the Bards, Anstruth Harp
+Instrument of the Bards, Canaith Mandolin
+Instrument of the Bards, Cli Lyre
+Instrument of the Bards, Doss Lute
+Instrument of the Bards, Fochlucan Bandore
+Instrument of the Bards, Mac-Fuirmidh Cittern
+Instrument of the Bards, Ollamh Harp
+Ioun Stone of Vitality
+Ioun Stone, Absorption
+Ioun Stone, Agility
+Ioun Stone, Awareness
+Ioun Stone, Fortitude
+Ioun Stone, Greater Absorption
+Ioun Stone, Historical Knowledge
+Ioun Stone, Insight
+Ioun Stone, Intellect
+Ioun Stone, Language Knowledge
+Ioun Stone, Leadership
+Ioun Stone, Mastery
+Ioun Stone, Natural Knowledge
+Ioun Stone, Protection
+Ioun Stone, Regeneration
+Ioun Stone, Religious Knowledge
+Ioun Stone, Reserve
+Ioun Stone, Self-Preservation
+Ioun Stone, Strength
+Ioun Stone, Supreme Intellect
+Ioun Stone, Sustenance
+Iron
+Iron Bands of Bilarro
+Iron Flask
+Iron Pot
+Iron Spike
+Iron Spikes (10)
+Ironfang
+Izzet Guild Signet
+Izzet Keyrune
+Jacinth
+Jade
+Jade bowl (River Heralds)
+Jade breastplate (River Heralds)
+Jade game board with solid gold playing pieces
+Jade headpiece (River Heralds)
+Jade Serpent Staff
+Jade sword with amber (River Heralds)
+Jade totem with diamond eyes (River Heralds)
+Jakarion's Staff of Frost
+Jasper
+Javelin of Backbiting
+Javelin of Lightning
+Jet
+Jeweled anklet
+Jeweled anklet (Brazen Coalition)
+Jeweled gold crown
+Jeweled platinum ring
+Jeweler's Tools
+Jug
+Junky +1 Dagger
+Keelboat
+Keoghtom's Ointment
+Keycharm
+Khrusor, Spear of Heliod
+Knave's Eye Patch
+Korolnor Scepter
+Kyrzin's Ooze
+Ladder (10-foot)
+Lamp
+Lantern of Revealing
+Lantern of Tracking
+Lapis Lazuli
+Large gold bracelet
+Large gold bracelet (Legion of Dusk)
+Large jade totem (River Heralds)
+Large well-made tapestry
+Large well-made tapestry (Legion of Dusk)
+Lash of Shadows
+Leather Golem Armor
+Leatherworker's Tools
+Libram of Souls and Flesh
+Lifewell Tattoo
+Lifewell Tattoo
+Lightbringer
+Lightning Absorbing Tattoo
+Linen (1 sq. yd.)
+Living Gloves
+Living Loot Satchel
+Loadstone
+Loaf of Bread
+Lock
+Lock of Trickery
+Longhorn
+Longship
+Lord's Ensemble
+Lost Crown of Besilmer
+Lost Sword
+Luba's Tarokka of Souls
+Lute
+Lute crafted of exotic wood with mother-of-pearl inlay and zircon gems (Brazen Coalition)
+Luxon Beacon
+Lyre
+Lyre of Building
+Mace of Disruption
+Mace of Smiting
+Mace of Terror
+Mace of the Black Crown
+Macuahuitl
+Maddgoth's Helm
+Magnifying Glass
+Malachite
+Malice
+Manacles
+Mantle of Spell Resistance
+Manual of Bodily Health
+Manual of Clay Golems
+Manual of Flesh Golems
+Manual of Gainful Exercise
+Manual of Iron Golems
+Manual of Quickness of Action
+Manual of Stone Golems
+Map or Scroll Case
+Marble font with gold inlay (Legion of Dusk)
+Mask of the Beast
+Mask of the Dragon Queen
+Mason's Tools
+Masquerade Tattoo
+Masquerade Tattoo
+Masterpiece painting in mahogany frame with gold inlay (Legion of Dusk)
+Mastiff
+Mastix, Whip of Erebos
+Matalotok
+Matchless Pipe
+Medallion of Thoughts
+Menga leaves (1 ounce)
+Merchant's Scale
+Mess Kit
+Midnight Tears
+Mighty Servant of Leuk-o
+Military Saddle
+Mind Flayer Skull
+Mind Lash
+Miner's Pick
+Mirror of Life Trapping
+Mirror of the Past
+Mizzium Apparatus
+Mizzium Mortar
+Molten Bronze Skin (Breastplate)
+Molten Bronze Skin (Half Plate)
+Molten Bronze Skin (Plate)
+Monster Hunter's Pack
+Moodmark Paint
+Moonblade
+Moonstone
+Moorbounder
+Moss Agate
+Mule
+Mummy Rot Antidote
+Muroosa Balm
+Mystery Key
+Nature's Mantle
+Navigation Orb
+Navigator's Tools
+Necklace of Adaptation
+Necklace of electrum medallions with red and blue tournalines (Brazen Coalition)
+Necklace of Fireballs
+Necklace of jade and pink pearls (River Heralds)
+Necklace of Prayer Beads
+Necklace string of small pink pearls
+Necrotic Absorbing Tattoo
+Needle of Mending
+Nether Scroll of Azumar
+Nib
+Night Caller
+Nightfall Pearl
+Nimblewright Detector
+Nolzur's Marvelous Pigments
+Oathbow
+Obsidian
+Obsidian Flint Dragon Plate
+Obsidian statuette with gold fittings and inlay
+Obviator's Lenses
+Occultant Abacus
+Oil (flask)
+Oil of Etherealness
+Oil of Sharpness
+Oil of Slipperiness
+Oil of Taggit
+Old masterpiece painting
+Olisuba Leaf
+Onyx
+Opal
+Opal of the Ild Rune
+Opal of the Ild Rune
+Orb of Direction
+Orb of Dragonkind
+Orb of Gonging
+Orb of the Stein Rune
+Orb of the Stein Rune
+Orb of the Veil
+Orb of Time
+Orc Stone
+Orcsplitter
+Orcus Figurine
+Order of the Silver Dragon +2 Shield
+Orrery of the Wanderer
+Orzhov Guild Signet
+Orzhov Keyrune
+Outer Essence Shard
+Outer Essence Shard (Chaotic)
+Outer Essence Shard (Evil)
+Outer Essence Shard (Good)
+Outer Essence Shard (Lawful)
+Oversized Longbow
+Ox
+Pack Saddle
+Painted gold child's sarcophagus
+Painted gold war mask
+Painter's Supplies
+Pair of engraved bone dice
+Pair of engraved bone dice (Brazen Coalition)
+Pale Tincture
+Pan Flute
+Paper (one sheet)
+Paper Bird
+Parchment (one sheet)
+Pariah's Shield
+Pathfinder's Greataxe
+Pearl
+Pearl of Power
+Pearl of Undead Detection
+Pennant of the Vind Rune
+Pennant of the Vind Rune
+Pepper
+Peregrine Mask
+Perfume (vial)
+Perfume of Bewitching
+Periapt of Health
+Periapt of Proof against Poison
+Periapt of Wound Closure
+Peridot
+Petrified Grung Egg
+Pewter mug with green spinels (Brazen Coalition)
+Philter of Love
+Piercer
+Pig
+Pipe of Remembrance
+Pipe of Smoke Monsters
+Pipes of Haunting
+Pipes of the Sewers
+Pitcher
+Piton
+Piwafwi (Cloak of Elvenkind)
+Piwafwi of Fire Resistance
+Pixie Dust
+Planecaller's Codex
+Plate Armor of Etherealness
+Platinum
+Platinum (pp)
+Platinum 10-Zino Coin
+Platinum 100-Zino Coin
+Platinum bracelet set with a sapphire
+Platinum headdress with topaz sun symbol (Sun Empire)
+Platinum ring with yellow sapphire (Sun Empire)
+Platinum staff topped with amber (Sun Empire)
+Playing Card Set
+Poison Absorbing Tattoo
+Poisoner's Kit
+Pole (10-foot)
+Pole of Angling
+Pole of Collapsing
+Pony
+Portable Hole
+Portable Ram
+Portfolio Keeper
+Pot of Awakening
+Potion of Acid Resistance
+Potion of Animal Friendship
+Potion of Aqueous Form
+Potion of Clairvoyance
+Potion of Climbing
+Potion of Cloud Giant Strength
+Potion of Cold Resistance
+Potion of Comprehension
+Potion of Diminution
+Potion of Fire Breath
+Potion of Fire Giant Strength
+Potion of Fire Resistance
+Potion of Flying
+Potion of Force Resistance
+Potion of Frost Giant Strength
+Potion of Gaseous Form
+Potion of Giant Size
+Potion of Greater Healing
+Potion of Growth
+Potion of Healing
+Potion of Heroism
+Potion of Hill Giant Strength
+Potion of Invisibility
+Potion of Invulnerability
+Potion of Lightning Resistance
+Potion of Longevity
+Potion of Maximum Power
+Potion of Mind Control (beast)
+Potion of Mind Control (humanoid)
+Potion of Mind Control (monster)
+Potion of Mind Reading
+Potion of Necrotic Resistance
+Potion of Poison
+Potion of Poison Resistance
+Potion of Possibility
+Potion of Psychic Resistance
+Potion of Radiant Resistance
+Potion of Speed
+Potion of Stone Giant Strength
+Potion of Storm Giant Strength
+Potion of Superior Healing
+Potion of Supreme Healing
+Potion of Thunder Resistance
+Potion of Vitality
+Potion of Watchful Rest
+Potion of Water Breathing
+Potter's Tools
+Pouch
+Powered Armor
+Pressure Capsule
+Pride Silk
+Pride Silk Outfit
+Priest's Pack
+Professor Orb
+Professor Skant
+Propeller Helm
+Prosthetic Limb
+Protective Verses
+Psi Crystal
+Psychic Absorbing Tattoo
+Purple Worm Poison
+Pyroconverger
+Pyxis of Pandemonium
+Quaal's Feather Token, Anchor
+Quaal's Feather Token, Bird
+Quaal's Feather Token, Fan
+Quaal's Feather Token, Swan Boat
+Quaal's Feather Token, Tree
+Quaal's Feather Token, Whip
+Quartz
+Quiver
+Quiver of Ehlonna
+Radiance
+Radiant Absorbing Tattoo
+Rain Catcher
+Rakdos Guild Signet
+Rakdos Keyrune
+Rakdos Riteknife
+Rations (1 day)
+Red Dragon Mask
+Red Dragon Scale Mail
+Reincarnation Dust
+Reliquary
+Reszur
+Reveler's Concertina
+Rhodochrosite
+Riding Horse
+Riding Saddle
+Ring of Acid Resistance
+Ring of Air Elemental Command
+Ring of Animal Influence
+Ring of Cold Resistance
+Ring of Djinni Summoning
+Ring of Earth Elemental Command
+Ring of Evasion
+Ring of Feather Falling
+Ring of Fire Elemental Command
+Ring of Fire Resistance
+Ring of Force Resistance
+Ring of Free Action
+Ring of Invisibility
+Ring of Jumping
+Ring of Lightning Resistance
+Ring of Mind Shielding
+Ring of Necrotic Resistance
+Ring of Obscuring
+Ring of Poison Resistance
+Ring of Protection
+Ring of Psychic Resistance
+Ring of Radiant Resistance
+Ring of Regeneration
+Ring of Shooting Stars
+Ring of Spell Storing
+Ring of Spell Turning
+Ring of Swimming
+Ring of Telekinesis
+Ring of Temporal Salvation
+Ring of the Ram
+Ring of Three Wishes
+Ring of Thunder Resistance
+Ring of Truth Telling
+Ring of Warmth
+Ring of Water Elemental Command
+Ring of Water Walking
+Ring of Winter
+Ring of X-ray Vision
+Rings of Shared Suffering
+Robe of Eyes
+Robe of Scintillating Colors
+Robe of Serpents
+Robe of Stars
+Robe of Summer
+Robe of the Archmagi
+Robe of Useful Items
+Robes
+Rod of Absorption
+Rod of Alertness
+Rod of Lordly Might
+Rod of Resurrection
+Rod of Retribution
+Rod of Rulership
+Rod of Security
+Rod of the Vonindod
+Rope of Climbing
+Rope of Entanglement
+Rope of Mending
+Rotor of Return
+Rowboat
+Ruby
+Ruby of the War Mage
+Ruin's Wake
+Ruinblade
+Ruinstone
+Ryath Root
+Sack
+Saddle of the Cavalier
+Saddlebags
+Saffron
+Sailing Ship
+Saint Markovia's Thighbone
+Salt
+Sardonyx
+Scarab of Protection
+Scholar's Pack
+Scimitar of Speed
+Scorpion Armor
+Scribe's Pen
+Scroll of Protection from Aberrations
+Scroll of Protection from Beasts
+Scroll of Protection from Celestials
+Scroll of Protection from Elementals
+Scroll of Protection from Fey
+Scroll of Protection from Fiends
+Scroll of Protection from Plants
+Scroll of Protection from Undead
+Scroll of Tarrasque Summoning
+Scroll of the Comet
+Sealing Wax
+Seeker Dart
+Sekolahian Worshiping Statuette
+Selesnya Guild Signet
+Selesnya Keyrune
+Sending Stone
+Sending Stones
+Sentinel Shield
+Serpent Scale Armor
+Serpent Venom
+Serpent's Fang
+Shadowfell Brand Tattoo
+Shadowfell Brand Tattoo
+Shadowfell Shard
+Shard
+Shard of the Ise Rune
+Shard of the Kalt Rune
+Shatterspike
+Shatterstick
+Shawm
+Shawm
+Sheep
+Shield Guardian Amulet
+Shield of Expression
+Shield of Far Sight
+Shield of Missile Attraction
+Shield of the Hidden Lord
+Shield of the Uven Rune
+Shiftweave
+Shovel
+Signal Whistle
+Signet Ring
+Silk (1 sq. yd.)
+Silk robe with gold embroidery
+Silk Rope (50 feet)
+Silken Spite
+Silver
+Silver (sp)
+Silver 25-Zib Coin
+Silver and gold brooch
+Silver chalice set with moonstones
+Silver Dragon Scale Mail
+Silver ewer
+Silver headdress with amber and red-coral feathers (Sun Empire)
+Silver medallion (Sun Empire)
+Silver necklace with a gemstone pendant
+Silver necklace with an amber pendant (Sun Empire)
+Silver shoulder piece with amber and garnet (Sun Empire)
+Silver Sword
+Silver-plated steel longsword with jet set in hilt
+Simic Guild Signet
+Simic Keyrune
+Sinda berries (10)
+Siren Song Lyre
+Skyblinder Staff
+Skyship
+Sled
+Sled Dog
+Sledgehammer
+Sling Bullets of Althemone
+Slippers of Spider Climbing
+Small gold bracelet
+Small gold idol
+Small gold statuette set with rubies
+Small mirror set in a painted wooden frame
+Smith's Tools
+Smoke Grenade
+Smokepowder
+Snowshoes
+Soap
+Songhorn
+Soothsalts
+Soul Bag
+Soul Coin
+Sovereign Glue
+Speaking Stone
+Spear of Backbiting
+Spell Bottle
+Spell Gem (Amber)
+Spell Gem (Bloodstone)
+Spell Gem (Diamond)
+Spell Gem (Jade)
+Spell Gem (Lapis lazuli)
+Spell Gem (Obsidian)
+Spell Gem (Quartz)
+Spell Gem (Ruby)
+Spell Gem (Star ruby)
+Spell Gem (Topaz)
+Spell Scroll (1st Level)
+Spell Scroll (2nd Level)
+Spell Scroll (3rd Level)
+Spell Scroll (4th Level)
+Spell Scroll (5th Level)
+Spell Scroll (6th Level)
+Spell Scroll (7th Level)
+Spell Scroll (8th Level)
+Spell Scroll (9th Level)
+Spell Scroll (Cantrip)
+Spellbook
+Spellguard Shield
+Spellshard
+Spellwrought Tattoo (1st Level)
+Spellwrought Tattoo (1st Level)
+Spellwrought Tattoo (2nd Level)
+Spellwrought Tattoo (2nd Level)
+Spellwrought Tattoo (3rd Level)
+Spellwrought Tattoo (3rd Level)
+Spellwrought Tattoo (4th Level)
+Spellwrought Tattoo (4th Level)
+Spellwrought Tattoo (5th Level)
+Spellwrought Tattoo (5th Level)
+Spellwrought Tattoo (Cantrip)
+Spellwrought Tattoo (Cantrip)
+Sphere of Annihilation
+Spider Staff
+Spies' Murmur
+Spinel
+Sprig of Mistletoe
+Spyglass
+Spyglass of Clairvoyance
+Stabling (per day)
+Staff of Adornment
+Staff of Birdcalls
+Staff of Charming
+Staff of Defense
+Staff of Dunamancy
+Staff of Fate
+Staff of Fire
+Staff of Flowers
+Staff of Frost
+Staff of Healing
+Staff of Power
+Staff of Striking
+Staff of Swarming Insects
+Staff of the Adder
+Staff of the Forgotten One
+Staff of the Ivory Claw
+Staff of the Magi
+Staff of the Python
+Staff of the Woodlands
+Staff of Thunder and Lightning
+Staff of Withering
+Star rose quartz
+Star Ruby
+Star Sapphire
+Statuette of Saint Markovia
+Steel Mirror
+Stone of Controlling Earth Elementals
+Stone of Golorr
+Stone of Good Luck
+Stone of Ill Luck
+Stonespeaker Crystal
+Stonky's ring
+Storm Boomerang
+Stormgirdle
+Sun
+Sun amulet on a beaded chain (Sun Empire)
+Sun Blade
+Sunforger
+Sunsword
+Survival Mantle
+Sword of Answering (Answerer)
+Sword of Answering (Back Talker)
+Sword of Answering (Concluder)
+Sword of Answering (Last Quip)
+Sword of Answering (Rebutter)
+Sword of Answering (Replier)
+Sword of Answering (Retorter)
+Sword of Answering (Scather)
+Sword of Answering (Squelcher)
+Sword of Kas
+Sword of the Paruns
+Sword of Zariel
+Talisman of Pure Good
+Talisman of the Sphere
+Talisman of Ultimate Evil
+Talking Doll
+Tangler Grenade
+Tankard
+Tankard of Plenty
+Tankard of Sobriety
+Tantan
+Taol
+Tearulai
+Teeth of Dahlver-Nar
+Tej
+Teleporter Ring
+Tentacle Rod
+The Bloody End
+The Codicil of White
+The Incantations of Iriolarthas
+The Infernal Machine of Lum the Mad
+Theki Root
+Thelarr
+Thermal Cube
+Thessaltoxin
+Thessaltoxin Antidote
+Thieves' Tools
+Three-Dragon Ante Set
+Thunder Absorbing Tattoo
+Tiger Eye
+Timepiece of Travel
+Tinderbox
+Tinderstrike
+Tinker's Tools
+Tiny jade figurine (River Heralds)
+Tocken
+Tome of Clear Thought
+Tome of Leadership and Influence
+Tome of Strahd
+Tome of the Stilled Tongue
+Tome of Understanding
+Topaz
+Torch
+Torpor
+Totem
+Tourmaline
+Travel Alchemical Kit
+Traveler's Clothes
+Treasure chest crafted of exotic wood with gold fittings and opals (Brazen Coalition)
+Treebane
+Trident of Fish Command
+Trinket
+Trinket
+Trinket
+Trinket
+Truth Serum
+Turquoise
+Two-Birds Sling
+Two-Person Tent
+Unbreakable Arrow
+Uncommon Glamerweave
+Universal Solvent
+Vanrak's Mithral Shirt
+Velvet doublet with gold buttons (Legion of Dusk)
+Ventilating Lungs
+Verminshroud
+Veteran's Cane
+Vial
+Vial of Stardust
+Viol
+Voting Kit
+Vox Seeker
+Voyager Staff
+Wagon
+Wand of Binding
+Wand of Conducting
+Wand of Enemy Detection
+Wand of Entangle
+Wand of Fear
+Wand of Fireballs
+Wand of Lightning Bolts
+Wand of Magic Detection
+Wand of Magic Missiles
+Wand of Orcus
+Wand of Paralysis
+Wand of Polymorph
+Wand of Pyrotechnics
+Wand of Scowls
+Wand of Secrets
+Wand of Smiles
+Wand of Viscid Globs
+Wand of Web
+Wand of Winter
+Wand of Wonder
+Wand Sheath
+Wargong
+Warhorse
+Warship
+Watchful Helm
+Waterskin
+Wave
+Waythe
+Weaver's Tools
+Weird Tank
+Well of Many Worlds
+Wheat
+Wheel of Stars
+Wheel of Wind and Water
+Whelm
+Whetstone
+Whisper Jar
+White Dragon Cape
+White Dragon Mask
+White Dragon Scale Mail
+Wildroot
+Will of the Talon
+Willowshade Oil
+Wind Fan
+Windvane
+Winged Boots
+Wings of Flying
+Wingwear
+Winter's Dark Bite
+Woodcarver's Tools
+Wooden Staff
+Wreath of the Prism
+Wukka Nut
+Wyllow's Staff of Flowers
+Wyrmskull Throne
+Wyvern Poison
+Yahcha
+Yarting
+Yellow Sapphire
+Yew Wand
+Ythryn Mythallar
+Zabou
+Zircon
+Zulkoon

@@ -1,0 +1,6 @@
+CHA
+CON
+DEX
+INT
+STR
+WIS

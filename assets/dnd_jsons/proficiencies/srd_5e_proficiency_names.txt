@@ -1,0 +1,117 @@
+Alchemist's supplies
+All armor
+Bagpipes
+Battleaxes
+Blowguns
+Breastplate
+Brewer's supplies
+Calligrapher's supplies
+Carpenter's tools
+Cartographer's tools
+Chain Mail
+Chain Shirt
+Clubs
+Cobbler's tools
+Cook's utensils
+Crossbows, hand
+Crossbows, heavy
+Crossbows, light
+Daggers
+Darts
+Dice Set
+Disguise kit
+Drum
+Dulcimer
+Flails
+Flute
+Forgery kit
+Glaives
+Glassblower's tools
+Greataxes
+Greatclubs
+Greatswords
+Halberds
+Half Plate
+Handaxes
+Heavy armor
+Herbalism Kit
+Hide
+Horn
+Javelins
+Jeweler's tools
+Lances
+Land Vehicles
+Leather
+Leatherworker's tools
+Light armor
+Light hammers
+Longbows
+Longswords
+Lute
+Lyre
+Maces
+Martial weapons
+Mason's tools
+Mauls
+Medium armor
+Morningstars
+Navigator's Tools
+Nets
+Padded
+Painter's supplies
+Pan flute
+Pikes
+Plate
+Playing card set
+Poisoner's Kit
+Potter's tools
+Quarterstaffs
+Rapiers
+Ring Mail
+Saving Throw: CHA
+Saving Throw: CON
+Saving Throw: DEX
+Saving Throw: INT
+Saving Throw: STR
+Saving Throw: WIS
+Scale Mail
+Scimitars
+Shawm
+Shields
+Shortbows
+Shortswords
+Sickles
+Simple weapons
+Skill: Acrobatics
+Skill: Animal Handling
+Skill: Arcana
+Skill: Athletics
+Skill: Deception
+Skill: History
+Skill: Insight
+Skill: Intimidation
+Skill: Investigation
+Skill: Medicine
+Skill: Nature
+Skill: Perception
+Skill: Performance
+Skill: Persuasion
+Skill: Religion
+Skill: Sleight of Hand
+Skill: Stealth
+Skill: Survival
+Slings
+Smith's tools
+Spears
+Splint
+Studded Leather
+Thieves' Tools
+Tinker's tools
+Tridents
+Viol
+War picks
+Warhammers
+Water Vehicles
+Weaver's tools
+Whips
+Woodcarver's tools

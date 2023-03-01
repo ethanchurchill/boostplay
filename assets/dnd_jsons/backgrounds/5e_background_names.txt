@@ -1,0 +1,98 @@
+Acolyte
+Anthropologist
+Archaeologist
+Athlete
+Augen Trust (Spy)
+Azorius Functionary
+Baldur's Gate Acolyte
+Baldur's Gate Charlatan
+Baldur's Gate Criminal
+Baldur's Gate Entertainer
+Baldur's Gate Folk Hero
+Baldur's Gate Guild Artisan
+Baldur's Gate Hermit
+Baldur's Gate Noble
+Baldur's Gate Outlander
+Baldur's Gate Sage
+Baldur's Gate Sailor
+Baldur's Gate Soldier
+Baldur's Gate Urchin
+Black Fist Double Agent
+Boros Legionnaire
+Caravan Specialist
+Celebrity Adventurer's Scion
+Charlatan
+City Watch
+Clan Crafter
+Cloistered Scholar
+Cobalt Scholar (Sage)
+Cormanthor Refugee
+Courtier
+Criminal
+Dimir Operative
+Dissenter
+Dragon Casualty
+Earthspur Miner
+Entertainer
+Faceless
+Faction Agent
+Failed Merchant
+Far Traveler
+Fisher
+Folk Hero
+Gambler
+Gate Urchin
+Golgari Agent
+Grinner
+Gruul Anarch
+Guild Artisan
+Harborfolk
+Haunted One
+Hermit
+Hillsfar Merchant
+Hillsfar Smuggler
+House Agent
+Inheritor
+Initiate
+Inquisitor
+Iron Route Bandit
+Izzet Engineer
+Knight of the Order
+Luxonborn (Acolyte)
+Marine
+Mercenary Veteran
+Mulmaster Aristocrat
+Myriad Operative (Criminal)
+Noble
+Orzhov Representative
+Outlander
+Phlan Insurgent
+Phlan Refugee
+Plaintiff
+Rakdos Cultist
+Revelry Pirate (Sailor)
+Rival Intern
+Sage
+Sailor
+Secret Identity
+Selesnya Initiate
+Shade Fanatic
+Shipwright
+Simic Scientist
+Smuggler
+Soldier
+Stojanow Prisoner
+Ticklebelly Nomad
+Trade Sheriff
+Urban Bounty Hunter
+Urchin
+Uthgardt Tribe Member
+Variant City Watch (Investigator)
+Variant Criminal (Spy)
+Variant Entertainer (Gladiator)
+Variant Guild Artisan (Guild Merchant)
+Variant Noble (Knight)
+Variant Sailor (Pirate)
+Vizier
+Volstrucker Agent
+Waterdhavian Noble

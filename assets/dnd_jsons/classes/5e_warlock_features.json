@@ -1,0 +1,406 @@
+[
+		{
+			"name": "Otherworldly Patron",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 1,
+			"entries": [
+				"At 1st level, you have struck a bargain with an otherworldly being chosen from the list of available patrons. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level."
+			]
+		},
+		{
+			"name": "Pact Magic",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 1,
+			"entries": [
+				"Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See {@book chapter 10|PHB|10} for the general rules of spellcasting and {@book chapter 11|PHB|11} for the {@filter warlock spell list|spells|class=warlock}.",
+				{
+					"type": "entries",
+					"name": "Cantrips",
+					"entries": [
+						"You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spell Slots",
+					"entries": [
+						"The Warlock table shows how many spell slots you have to cast your {@filter warlock spells|spells|class=warlock} of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.",
+						"For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell {@spell witch bolt}, you must spend one of those slots, and you cast it as a 3rd-level spell."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spells Known of 1st Level and Higher",
+					"entries": [
+						"At 1st level, you know two 1st-level spells of your choice from the warlock spell list.",
+						"The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.",
+						"Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spellcasting Ability",
+					"entries": [
+						"Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.",
+						{
+							"type": "abilityDc",
+							"name": "Spell",
+							"attributes": [
+								"cha"
+							]
+						},
+						{
+							"type": "abilityAttackMod",
+							"name": "Spell",
+							"attributes": [
+								"cha"
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spellcasting Focus",
+					"entries": [
+						"You can use an {@item arcane focus|phb} as a spellcasting focus for your warlock spells."
+					]
+				}
+			]
+		},
+		{
+			"name": "Spell Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 10,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 1,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 1st-level warlock feature (enhances Pact Magic)}",
+				"Whenever you finish a long rest, you can replace one spell you learned from this Pact Magic feature with another spell from the warlock spell list. The new spell must be the same level as the spell you replace."
+			]
+		},
+		{
+			"name": "Eldritch Invocations",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 2,
+			"entries": [
+				"In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.",
+				"At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the {@filter Optional Features|optionalfeatures|Feature Type=EI} page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.",
+				"Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.",
+				"If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class."
+			]
+		},
+		{
+			"name": "Pact Boon",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 3,
+			"entries": [
+				"At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.",
+				{
+					"type": "options",
+					"count": 1,
+					"entries": [
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Pact of the Chain"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Pact of the Blade"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Pact of the Tome"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Pact of the Star Chain|UATheFaithful"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Pact of the Talisman|UAClassFeatureVariants"
+						},
+						{
+							"type": "refOptionalfeature",
+							"optionalfeature": "Pact of the Talisman|TCE"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 4,
+			"entries": [
+				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Eldritch Versatility",
+			"source": "TCE",
+			"page": 70,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 4,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 4th-level warlock {@variantrule optional class features|tce|optional feature}}",
+				"Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:",
+				{
+					"type": "list",
+					"items": [
+						"Replace one cantrip you learned from this class's Pact Magic feature with another cantrip from the {@filter warlock spell list|spells|level=0|class=Warlock}.",
+						"Replace the option you chose for the Pact Boon feature with one of that feature's other options.",
+						"If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level."
+					]
+				},
+				"If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 4,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 4th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Otherworldly Patron feature",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 6,
+			"entries": [
+				"At 6th level, you gain a feature granted by your Otherworldly Patron."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 8,
+			"entries": [
+				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 8,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 8th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Otherworldly Patron feature",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 10,
+			"entries": [
+				"At 10th level, you gain a feature granted by your Otherworldly Patron."
+			]
+		},
+		{
+			"name": "Mystic Arcanum (6th level)",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 11,
+			"entries": [
+				"At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one {@filter 6th-level spell from the warlock spell list|spells|level=6|class=Warlock} as this arcanum.",
+				"You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.",
+				"At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 12,
+			"entries": [
+				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 12,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 12th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Mystic Arcanum (7th level)",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 13,
+			"entries": [
+				"At 13th level, your patron bestows upon you a magical secret called an arcanum. Choose one {@filter 7th-level spell from the warlock spell list|spells|level=7|class=Warlock} as this arcanum.",
+				"You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again."
+			]
+		},
+		{
+			"name": "Otherworldly Patron feature",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 14,
+			"entries": [
+				"At 14th level, you gain a feature granted by your Otherworldly Patron."
+			]
+		},
+		{
+			"name": "Mystic Arcanum (8th level)",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 15,
+			"entries": [
+				"At 15th level, your patron bestows upon you a magical secret called an arcanum. Choose one {@filter 8th-level spell from the warlock spell list|spells|level=8|class=Warlock} as this arcanum.",
+				"You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 16,
+			"entries": [
+				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 16,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 16th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Mystic Arcanum (9th level)",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 17,
+			"entries": [
+				"At 17th level, your patron bestows upon you a magical secret called an arcanum. Choose one {@filter 9th-level spell from the warlock spell list|spells|level=9|class=Warlock} as this arcanum.",
+				"You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 19,
+			"entries": [
+				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
+				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+			]
+		},
+		{
+			"name": "Proficiency Versatility",
+			"source": "UAClassFeatureVariants",
+			"page": 1,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 19,
+			"isClassFeatureVariant": true,
+			"entries": [
+				"{@i 19th-level feature (enhances Ability Score Improvement)}",
+				"When you gain the Ability Score Improvement feature from your class, you can also replace one of your skill proficiencies with a skill proficiency offered by your class at 1st level (the proficiency you replace needn't be from the class).",
+				"This change represents one of your skills atrophying as you focus on a different skill."
+			]
+		},
+		{
+			"name": "Eldritch Master",
+			"source": "PHB",
+			"page": 105,
+			"srd": true,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"level": 20,
+			"entries": [
+				"At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again."
+			]
+		}
+	]

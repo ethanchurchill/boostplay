@@ -1,0 +1,158 @@
+[
+{
+    "desc": [
+        "Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.",
+        "A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks."
+    ],
+    "full_name": "Charisma",
+    "index": "cha",
+    "name": "CHA",
+    "skills": [
+        {
+            "index": "deception",
+            "name": "Deception",
+            "url": "/api/skills/deception"
+        },
+        {
+            "index": "intimidation",
+            "name": "Intimidation",
+            "url": "/api/skills/intimidation"
+        },
+        {
+            "index": "performance",
+            "name": "Performance",
+            "url": "/api/skills/performance"
+        },
+        {
+            "index": "persuasion",
+            "name": "Persuasion",
+            "url": "/api/skills/persuasion"
+        }
+    ],
+    "url": "/api/ability-scores/cha"
+},{
+    "desc": [
+        "Constitution measures health, stamina, and vital force.",
+        "Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster."
+    ],
+    "full_name": "Constitution",
+    "index": "con",
+    "name": "CON",
+    "skills": [],
+    "url": "/api/ability-scores/con"
+},{
+    "desc": [
+        "Dexterity measures agility, reflexes, and balance.",
+        "A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks."
+    ],
+    "full_name": "Dexterity",
+    "index": "dex",
+    "name": "DEX",
+    "skills": [
+        {
+            "index": "acrobatics",
+            "name": "Acrobatics",
+            "url": "/api/skills/acrobatics"
+        },
+        {
+            "index": "sleight-of-hand",
+            "name": "Sleight of Hand",
+            "url": "/api/skills/sleight-of-hand"
+        },
+        {
+            "index": "stealth",
+            "name": "Stealth",
+            "url": "/api/skills/stealth"
+        }
+    ],
+    "url": "/api/ability-scores/dex"
+},{
+    "desc": [
+        "Intelligence measures mental acuity, accuracy of recall, and the ability to reason.",
+        "An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks."
+    ],
+    "full_name": "Intelligence",
+    "index": "int",
+    "name": "INT",
+    "skills": [
+        {
+            "index": "arcana",
+            "name": "Arcana",
+            "url": "/api/skills/arcana"
+        },
+        {
+            "index": "history",
+            "name": "History",
+            "url": "/api/skills/history"
+        },
+        {
+            "index": "investigation",
+            "name": "Investigation",
+            "url": "/api/skills/investigation"
+        },
+        {
+            "index": "nature",
+            "name": "Nature",
+            "url": "/api/skills/nature"
+        },
+        {
+            "index": "religion",
+            "name": "Religion",
+            "url": "/api/skills/religion"
+        }
+    ],
+    "url": "/api/ability-scores/int"
+},{
+    "desc": [
+        "Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.",
+        "A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks."
+    ],
+    "full_name": "Strength",
+    "index": "str",
+    "name": "STR",
+    "skills": [
+        {
+            "index": "athletics",
+            "name": "Athletics",
+            "url": "/api/skills/athletics"
+        }
+    ],
+    "url": "/api/ability-scores/str"
+},{
+    "desc": [
+        "Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.",
+        "A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks."
+    ],
+    "full_name": "Wisdom",
+    "index": "wis",
+    "name": "WIS",
+    "skills": [
+        {
+            "index": "animal-handling",
+            "name": "Animal Handling",
+            "url": "/api/skills/animal-handling"
+        },
+        {
+            "index": "insight",
+            "name": "Insight",
+            "url": "/api/skills/insight"
+        },
+        {
+            "index": "medicine",
+            "name": "Medicine",
+            "url": "/api/skills/medicine"
+        },
+        {
+            "index": "perception",
+            "name": "Perception",
+            "url": "/api/skills/perception"
+        },
+        {
+            "index": "survival",
+            "name": "Survival",
+            "url": "/api/skills/survival"
+        }
+    ],
+    "url": "/api/ability-scores/wis"
+}
+]

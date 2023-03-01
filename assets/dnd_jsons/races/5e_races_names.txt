@@ -1,0 +1,116 @@
+Aarakocra
+Aarakocra
+Aasimar
+Aasimar
+Aetherborn
+Aven
+Aven
+Bugbear
+Bugbear
+Bullywug
+Centaur
+Centaur
+Centaur
+Changeling
+Changeling
+Changeling
+Custom Lineage
+Dhampir
+Dragonborn
+Dwarf
+Dwarf (Kaladesh)
+Elf
+Elf (Kaladesh)
+Elf (Zendikar)
+Fairy
+Firbolg
+Genasi
+Gith
+Gith
+Gnoll
+Gnome
+Gnome (Deep)
+Goblin
+Goblin
+Goblin
+Goblin
+Goblin (Dankwood)
+Goblin (Ixalan)
+Goblin (Zendikar)
+Goliath
+Grimlock
+Grung
+Half-Elf
+Half-Elf (Variant)
+Half-Orc
+Half-Orc (Mark of Finding)
+Halfling
+Hexblood
+Hobgoblin
+Hobgoblin
+Hobgoblin
+Hobgoblin
+Human
+Human (Amonkhet)
+Human (Innistrad)
+Human (Ixalan)
+Human (Zendikar)
+Kalashtar
+Kalashtar
+Kenku
+Kenku
+Khenra
+Kobold
+Kobold
+Kor
+Kuo-Toa
+Leonin
+Lizardfolk
+Lizardfolk
+Locathah
+Loxodon
+Loxodon
+Merfolk
+Merfolk (Ixalan)
+Merfolk (Zendikar)
+Minotaur
+Minotaur
+Minotaur
+Minotaur (Amonkhet)
+Minotaur (Krynn)
+Naga
+Orc
+Orc
+Orc
+Orc
+Orc (Ixalan)
+Owlfolk
+Rabbitfolk
+Reborn
+Revenant
+Satyr
+Shifter
+Shifter
+Shifter
+Simic Hybrid
+Simic Hybrid
+Siren
+Skeleton
+Tabaxi
+Tiefling
+Tortle
+Triton
+Triton
+Troglodyte
+Vampire (Ixalan)
+Vampire (Zendikar)
+Vedalken
+Vedalken
+Vedalken
+Verdan
+Viashino
+Warforged
+Warforged
+Warforged
+Yuan-ti Pureblood
+Zombie
