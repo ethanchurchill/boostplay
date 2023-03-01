@@ -9,14 +9,16 @@
   </head>
   <body>
 	<div class = "nav_bar">
-		<div class = "nav_menu">
-			<a href="index.html" class="logo_a"><img class= "logo" src="assets/BoostPlay.png" alt="BoostPlay"></a>
-			<ul class = "nav_ul"></a>
-				<li class = "nav_li"><a class = "nav_li_a" href="about.html">About</a></li>
-			</ul>
-		</div>
+		<a href="index.html" id="boostplay" class="logo_a" onmouseover="hvr(this, 'in')" onmouseleave="hvr(this, 'out')">
+		  <img src="assets/BoostPlay.png" class=logo col="g">
+		  <img src="assets/BoostPlay_Neon" class=logo_none col="b">
+		</a>
+		<ul class = "nav_ul">
+			<li class = "nav_li"><a class = "nav_li_a" href="about.html">About</a></li>
+			<li class = "nav_li"><a class = "nav_li_a" href="landing.html">Landing</a></li>
+		</ul>
 	</div>
-	<div>We are using Node.js <span id="node-version"></span>,
+	 <div>We are using Node.js <span id="node-version"></span>,
         Chromium <span id="chrome-version"></span>,
         and Electron <span id="electron-version"></span>.
         <script src="./renderer.js"></script></div>
