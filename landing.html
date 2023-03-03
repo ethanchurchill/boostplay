@@ -1,19 +1,38 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
     <link href="styleM.css" rel="stylesheet" type="text/css">  
+	<script src="hvr.js"></script>
+	
     <title>BoostPlay</title>
   </head>
   <body>
 	<div class = "nav_bar">
-		<a href="index.html" class="logo_a"><img class= "logo" src="assets/BoostPlay.png" alt="BoostPlay"></a>
+		<a href="index.html" id="boostplay" class="logo_a" onmouseover="hvr(this, 'in')" onmouseleave="hvr(this, 'out')">
+		  <img src="assets/BoostPlay.png" class="logo" col="g">
+		  <img src="assets/BoostPlay_Neon" class="logo_none" col="b">
+		</a>
 		<ul class = "nav_ul">
 			<li class = "nav_li"><a class = "nav_li_a" href="about.html">About</a></li>
-			<li class = "nav_li"><a class = "nav_li_a" href="landing.html">Landing</a></li>
 		</ul>
+	</div>
+	<div class="login">
+		<h1>LOGIN</h1>
+		<form action="authenticate.php" method="post">
+			<label for="username">
+				<i class="fas fa-user"></i>
+			</label>
+			<input type="text" name="username" placeholder="Username" id="username" required>
+			<label for="password">
+				<i class="fas fa-lock"></i>
+			</label>
+			<input type="password" name="password" placeholder="Password" id="password" required>
+			<input type="submit" value="CONTINUE →">
+		</form>
 	</div>
   </body>
 </html>

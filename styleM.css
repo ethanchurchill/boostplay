@@ -1,10 +1,16 @@
 @charset "utf-8";
+* {
+  	box-sizing: border-box;
+  	font-size: 16px;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+}
 .nav_ul {
 	list-style-type: none;
 	overflow: hidden;
 	margin: 0;
-	padding-top: 13px;
-	padding-bottom: 13px;
+	padding-top: 12.2px;
+	padding-bottom: 12.2px;
 	padding-left: 0;
 	
 }
@@ -16,7 +22,7 @@
     color: #b4423b;
     text-decoration: none;
     font-family: 'Baloo 2 Medium';
-    font-size: 15px;
+    font-size: 16px;
     font-variant: normal;
 	display: block;
 	text-align: center;
@@ -55,13 +61,123 @@ a.nav_li_a:hover {
     align-items: center;
     box-shadow: 0px 0px 10px 0px #fdef5e;
 }
-
+@keyframes background {
+	0% 		{background-color: black;}
+	50% 	{background-color: #171609;}
+	100% 	{background-color: black;}
+}
 html {
-    background-color: #3d3a40;
+    background-color: black;
+	animation-name: background;
+  	animation-duration: 6s;
+  	animation-iteration-count: infinite;
 }
-h1 {
-    float: left;
-    margin: 0;
-    padding: 0;
-    font-family: "Tilt Neon";
+.login {
+  	width: 400px;
+  	background-color: black;
+  	box-shadow: 0 0 10px 0 rgba(253, 239, 94, 1);
+  	margin: 100px auto;
+	border-radius: 15px;
 }
+.login h1 {
+    text-align: center;
+    font-family: 'Baloo 2 Medium';
+    color: #fdef5e;
+	margin-bottom: 0;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #fdef5e;
+    box-shadow: 0 5px 10px -4px rgba(253, 239, 94, 1);
+}
+.login form {
+  	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	padding-top: 20px;
+	box-shadow: 0 -5px 10px -4px rgba(253, 239, 94, 1);
+	
+}
+.login form label {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #b4423b;
+    color: #fdef5e;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 0px 0px 10px 0px black;
+}
+.login form input[type="password"], .login form input[type="text"] {
+  	width: 310px;
+  	height: 50px;
+  	margin-bottom: 20px;
+  	padding: 0 15px;
+	background-image: linear-gradient(to right, #fdef5e, black);
+	border-bottom-right-radius: 30px;
+	border-top-right-radius: 30px;
+	box-shadow: inset 0px 0px 10px 3px black;
+}
+.login form input[type="password"]:focus, .login form input[type="text"]:focus {
+	color: rgba(0, 0, 0, 1);
+	font-family: "Baloo 2 Medium";
+	outline: none;
+	background-image: none;
+	background-color: #fdef5e;
+}
+.login form input[type="password"]:not(:focus), .login form input[type="text"]:not(:focus) {
+	color: rgba(0, 0, 0, 1);
+	font-family: "Baloo 2 Medium";
+	outline: none;
+	background-color: #fdef5e;
+}
+.login form input[type="password"]:focus::placeholder, .login form input[type="text"]:focus::placeholder {
+	color: transparent;
+}
+.login form input[type="password"]::placeholder, .login form input[type="text"]::placeholder {
+  	color: rgba(0, 0, 0, .5);
+	font-family: "Baloo 2 Medium";
+}
+.login form input[type="password"]:not(:placeholder-shown), .login form input[type="text"]:not(:placeholder-shown){
+	background-color: aqua;
+}
+.login form input#username, .login form input#password {
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 0px;
+}
+.login form input[type="submit"] {
+  	width: 30%;
+	margin-left: auto;
+	margin-right: 20px;
+  	padding: 5px;
+  	background-color: #b4423b;
+  	border: 0;
+  	cursor:pointer;
+  	font-weight: bold;
+  	color: black;
+	font-family: "Baloo 2 Medium";
+	box-shadow: 0 0 10px 0px rgba(253, 239, 94, 1);
+  	transition: background-color 0.2s;
+	transition: border-bottom 0.2s;
+	transition: border-left 0.2s;
+	transition: border-right 0.2s;
+	transition: box-shadow 0s;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-radius: 15px;
+	margin-bottom: 15px;
+}
+.login form input[type="submit"]:hover {
+	background-color: #fdef5e;
+  	transition: background-color 0.2s;
+	transition: box-shadow 1s;
+	box-shadow: 0 0 10px 5px rgba(253, 239, 94, 1);
+	
+}
+

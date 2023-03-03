@@ -20,8 +20,8 @@ const createWindow = () => {
     }
   })
 
-  //win.loadURL('https://google.com')
-  win.loadFile('index.html')
+  win.loadURL('http://localhost/boostplay/landing.html')
+  //win.loadFile('index.html')
 }
 
 app.whenReady().then(() => {
