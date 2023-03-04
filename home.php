@@ -24,13 +24,18 @@ if (!isset($_SESSION['loggedin'])) {
 		  <img src="assets/BoostPlay.png" class="logo" col="g">
 		  <img src="assets/BoostPlay_Neon" class="logo_none" col="b">
 		</a>
-		<ul class = "nav_ul">
-			<li class = "nav_li"><a class = "nav_li_a" href="profile.php"><i class="fas fa-user-circle"></i>Profile</a></li>
+		<ul class = "nav_ul nav_ul_left" >
+			<li class = "nav_li"><a class = "nav_li_a" href="profile.php">Profile <i class="fas fa-user-circle"></i></a></li>
 			<li class = "nav_li"><a class = "nav_li_a" href="about.html">About</a></li>
-			<li class = "nav_li"><a class = "nav_li_a nav_li_a_rightmost" href="logout.php"><i class="fas fa-sign-out-alt"></i>Logout</a></li>
-			
-			
 		</ul>
+        <div class="dropdown">
+            <button class="dropbtn">Settings
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a class = "nav_li_a" href="logout.php">Sign out <i class="fas fa-sign-out-alt"></i></a>
+            </div>
+        </div>
 	</nav>
   </body>
 </html>
