@@ -9,14 +9,11 @@
 	list-style-type: none;
 	overflow: hidden;
 	margin: 0;
-	padding-top: 12.2px;
-	padding-bottom: 12.2px;
 	padding-left: 0;
 	
 }
 .nav_li {
 	float: left;
-	padding-left: 4%;
 }
 .nav_li_a {
     color: #b4423b;
@@ -26,6 +23,15 @@
     font-variant: normal;
 	display: block;
 	text-align: center;
+	padding-top: 12.2px;
+	padding-bottom: 12.2px;
+	padding: 12.2px;
+	
+	box-shadow: 12px 0 10px -10px #fdef5e, -12px 0 10px -10px #fdef5e;
+
+}
+.nav_li_a_rightmost {
+	box-shadow: -12px 0 10px -10px #fdef5e;
 }
 a.nav_li_a:hover {
     color: #fdef5e;
@@ -34,6 +40,7 @@ a.nav_li_a:hover {
 .logo {
 	width: 150px;
 	display: block;
+	
 }
 .logo_none {
 	width: 150px;
@@ -45,6 +52,8 @@ a.nav_li_a:hover {
 	float: left;
 	padding-top: 7px;
 	padding-bottom: 7px;
+	margin-right: 2%;
+	
 }
 .logo:hover {
 	max-width: 150px;
@@ -57,13 +66,14 @@ a.nav_li_a:hover {
     overflow: hidden;
     height: 50px;
     width: 100%;
+	min-width: 420px;
 	border-radius: 15px;
     align-items: center;
     box-shadow: 0px 0px 10px 0px #fdef5e;
 }
 @keyframes background {
 	0% 		{background-color: black;}
-	50% 	{background-color: #171609;}
+	50% 	{background-color: #2B2B0A;}
 	100% 	{background-color: black;}
 }
 html {
@@ -76,8 +86,32 @@ html {
   	width: 400px;
   	background-color: black;
   	box-shadow: 0 0 10px 0 rgba(253, 239, 94, 1);
-  	margin: 100px auto;
+  	margin: 15% auto 15% auto;
 	border-radius: 15px;
+	position: relative;
+}
+@keyframes img_FadeInOut {
+  0% {opacity:0;}
+50% {opacity:1;}
+100% {opacity:0;}
+}
+.img_boostplay {
+	position: absolute;
+	width: 150px;
+	display: block;
+	margin: auto;
+	margin-left: 125px;
+	padding: 20px 0 0 0;
+}
+.img_boostplay_neon {
+	position: relative;
+	width: 150px;
+	display: block;
+	margin: auto;
+	padding: 20px 0 0 0;
+	animation-name: img_FadeInOut;
+	animation-iteration-count: infinite;
+	animation-duration: 6s;
 }
 .login h1 {
     text-align: center;
@@ -94,8 +128,6 @@ html {
   	flex-wrap: wrap;
   	justify-content: center;
   	padding-top: 20px;
-	box-shadow: 0 -5px 10px -4px rgba(253, 239, 94, 1);
-	
 }
 .login form label {
     display: flex;
@@ -143,7 +175,7 @@ html {
 	font-family: "Baloo 2 Medium";
 }
 .login form input[type="password"]:not(:placeholder-shown), .login form input[type="text"]:not(:placeholder-shown){
-	background-color: aqua;
+	
 }
 .login form input#username, .login form input#password {
 	border-bottom: 2px solid black;
@@ -179,5 +211,12 @@ html {
 	transition: box-shadow 1s;
 	box-shadow: 0 0 10px 5px rgba(253, 239, 94, 1);
 	
+}
+.login form input[type="submit"]:focus {
+	background-color: #fdef5e;
+  	transition: background-color 0.2s;
+	transition: box-shadow 1s;
+	box-shadow: 0 0 10px 5px rgba(253, 239, 94, 1);
+	outline: none;
 }
 
