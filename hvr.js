@@ -15,10 +15,13 @@ function hvr(dom, action)
 function pop(div) {
     document.getElementById(div).style.display = 'block';
 }
-
+function chnb(color) {
+    document.getElementById("nb").style.backgroundColor = 'red';
+}
 function hide(div) {
     document.getElementById(div).style.display = 'none';
 }
+
 //To detect escape button
 document.onkeydown = function (evt) {
     evt = evt || window.event;

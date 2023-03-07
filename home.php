@@ -11,15 +11,15 @@ if (!isset($_SESSION['loggedin'])) {
 <html>
   <head>
     <meta charset="UTF-8">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
     <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">-->
     <link href="styleM.css" rel="stylesheet" type="text/css"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
-	<link href="hvr.js" type="text/javascript">
     <title>BoostPlay</title>
   </head>
   <body>
-	<nav class = "nav_bar">
+	<nav class = "nav_bar" id="nb">
 		<a href="home.php" id="boostplay" class="logo_a" onmouseover="hvr(this, 'in')" onmouseleave="hvr(this, 'out')">
 		  <img src="assets/BoostPlay.png" class="logo" col="g">
 		  <img src="assets/BoostPlay_Neon" class="logo_none" col="b">
