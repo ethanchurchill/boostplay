@@ -26,7 +26,7 @@ if (!isset($_SESSION['loggedin'])) {
 		</a>
 		<ul class = "nav_ul nav_ul_left" >
 			<li class = "nav_li"><a class = "nav_li_a" href="profile.php">Profile <i class="fas fa-user-circle"></i></a></li>
-			<li class = "nav_li"><a class = "nav_li_a" href="about.html">About</a></li>
+			<li class = "nav_li"><a class = "nav_li_a" href="about.html">About <i class="fa-solid fa-question"></i></a></li>
 		</ul>
         <div class="dropdown">
             <button class="dropbtn">Settings
