@@ -1497,6 +1497,29 @@
 					]
 				},
 				{
+					"name": "Drakewarden",
+					"shortName": "Drakewarden",
+					"source": "FTD",
+					"className": "Ranger",
+					"classSource": "PHB",
+					"page": 15,
+					"additionalSpells": [
+						{
+							"known": {
+								"3": [
+									"thaumaturgy#c"
+								]
+							}
+						}
+					],
+					"subclassFeatures": [
+						"Drakewarden|Ranger||Drakewarden|FTD|3",
+						"Bond of Fang and Scale|Ranger||Drakewarden|FTD|7",
+						"Drake's Breath|Ranger||Drakewarden|FTD|11",
+						"Perfected Bond|Ranger||Drakewarden|FTD|15"
+					]
+				},
+				{
 					"name": "Fey Wanderer",
 					"shortName": "Fey Wanderer",
 					"source": "TCE",

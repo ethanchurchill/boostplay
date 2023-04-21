@@ -5,16 +5,16 @@
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
     <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-    <link href="styleM.css" rel="stylesheet" type="text/css">  
-	<script src="hvr.js"></script>
-	
+    <link href="styleM.css" rel="stylesheet" type="text/css"> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script> 
+	<script src="jq_scripts.js"></script>
     <title>BoostPlay</title>
   </head>
   <body>
 	<div class="login">
-		<img class="img_boostplay" src="assets/BoostPlay.png" col="g">
-		<img class="img_boostplay_neon" src="assets/BoostPlay_Neon.png" col="g">
-		<form action="authenticate.php" method="post">
+		<img class="img_boostplay" src="assets/BoostPlay.png" col="g" alt="Boostplay">
+		<img class="img_boostplay_neon" src="assets/BoostPlay_Neon.png" col="g" alt="Boostplay">
+		<form action="sessionstart.php" method="post">
 			<label for="username">
 				<i class="fas fa-user"></i>
 			</label>
@@ -23,6 +23,7 @@
 				<i class="fas fa-lock"></i>
 			</label>
 			<input type="password" name="password" placeholder="Password" id="password" required>
+			<div><a href="register.html">Create Account</a></div>
 			<input type="submit" value="CONTINUE →">
 		</form>
 	</div>

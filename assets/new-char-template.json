@@ -1,0 +1,27 @@
+{
+	"name": null,
+	"progtype": "Milestone",
+	"hdtype": "Fixed",
+	"encumbrance": "noencum",
+	"coinweight": "true",
+	"level": 1,
+	"class": [null],
+	"species": null,
+	"scores":
+	{
+		"str": 10,
+		"dex": 10,
+		"con": 10,
+		"int": 10,
+		"wis": 10,
+		"cha": 10
+	},
+	"description":
+	{
+		"background": null,
+		"alignment": null,
+		"lifestyle": null,
+		"notes": null
+	},
+	"equipment": [null]
+}

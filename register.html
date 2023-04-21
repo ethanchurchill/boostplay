@@ -1,29 +1,41 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>Register</title>
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
-		<link href="login_style.css" rel="stylesheet" type="text/css">
-	</head>
-	<body>
-		<div class="register">
-			<h1>Register</h1>
-			<form action="register.php" method="post" autocomplete="off">
-				<label for="username">
-					<i class="fas fa-user"></i>
-				</label>
-				<input type="text" name="username" placeholder="Username" id="username" required>
-				<label for="password">
-					<i class="fas fa-lock"></i>
-				</label>
-				<input type="password" name="password" placeholder="Password" id="password" required>
-				<label for="email">
-					<i class="fas fa-envelope"></i>
-				</label>
-				<input type="email" name="email" placeholder="Email" id="email" required>
-				<input type="submit" value="Register">
-			</form>
-		</div>
-	</body>
+  <head>
+    <meta charset="utf-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+    <link href="styleM.css" rel="stylesheet" type="text/css">  
+	<script src="hvr.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script> 
+	<script src="jq_scripts.js"></script>
+	
+    <title>BoostPlay</title>
+  </head>
+  <body>
+	<div class="login">
+		<img class="img_boostplay" src="assets/BoostPlay.png" col="g" alt="BoostPlay">
+		<img class="img_boostplay_neon" src="assets/BoostPlay_Neon.png" col="g" alt="BoostPlay">
+		<form action="register.php" method="post" autocomplete="off">
+			<label for="username" id="username_label">
+				<i class="fas fa-user"></i>
+			</label>
+			<input type="text" name="username" placeholder="Username" id="username" required onkeydown="usernameRequirements()" onkeyup="usernameRequirements()">
+			<label for="email" id="email_label">
+				<i class="fas fa-envelope"></i>
+			</label>
+			<input type="email" name="email" placeholder="Email" id="email" required onkeyup="emailRequirements()" onkeydown="emailRequirements()"/>
+			<label for="password" id="password_label">
+				<i class="fas fa-lock"></i>
+			</label>
+			<input type="password" name="password" placeholder="Password" id="password" required onkeyup="passwordKeyUpDown()" onkeydown="passwordKeyUpDown()"/>
+			<label for="password" id="confirm_password_label">
+				<i class="fas fa-lock"></i>
+			</label>
+			<input type="password" name="confirm_password" placeholder="Confirm Password" id="confirm_password" required onkeyup="confirmPassword()" onkeydown="confirmPassword()"/>
+			<div><a href="landing.html">Sign In Instead</a></div>
+			<input type="submit" value="CONTINUE →">
+		</form>
+	</div>
+  </body>
 </html>

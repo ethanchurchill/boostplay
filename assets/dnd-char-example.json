@@ -1,0 +1,96 @@
+{
+	"name": "Rammus",
+	"progtype": "Milestone",
+	"hdtype": "Fixed",
+	"encumbrance": "noencum",
+	"coinweight": "true",
+	"level": 3,
+	"class":
+	[ 
+		{
+			"name": "Ranger",
+			"level": 3,
+			"choices":
+			{
+				"proficiecies":
+				[
+					"Animal Handling",
+					"Athletics",
+					"Insight"
+				],
+				"favoredEnemy": "Giants",
+				"naturalExplorer": "Arctic",
+				"fightingStyle": "Archery",
+				"rangerArchetype": 
+				{
+					"name": "Hunter",
+					"choices":
+					{
+						"huntersprey": "Colossus Slayer"
+					}
+
+				},
+				"spellsKnown":
+				[
+					"Absorb Elements",
+					"Alarm",
+					"Animal Friendship"
+				]
+			}
+		}
+	],
+	"species": 
+	{
+		"name": "Human",
+		"choices":
+			{
+				"languages": 
+				[
+					"Elvish"
+				]
+			}
+	},
+	"scores":
+	{
+		"str": 14,
+		"dex": 16,
+		"con": 15,
+		"int": 10,
+		"wis": 17,
+		"cha": 19,
+	},
+	"description":
+	{
+		"background":
+		{
+			"name": "Acolyte",
+			"choices":
+			{
+				"languages":
+				[
+					"Abyssal",
+					"Celestial"
+				]
+
+			}
+		},
+		"alignment": "Chaotic Good",
+		"lifestyle": "Wealthy",
+		"notes": "This character is an example character, for the purpose of creating the Dungeons and Dragons character logging system for BoostPlay."
+	},
+	"equipment":
+	[
+		{
+			"name": "Scale Mail",
+			"itemid": "scalemail",
+			"quantity": 1
+		},
+		{
+			"name": "Short Sword",
+			"itemid": "shortsword",
+			"quantity": 2
+		}
+
+	]
+
+}

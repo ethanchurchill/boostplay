@@ -472,6 +472,20 @@
 			"subclassTitle": "Monastic Tradition",
 			"subclasses": [
 				{
+					"name": "Way of the Ascendant Dragon",
+					"shortName": "Ascendant Dragon",
+					"source": "FTD",
+					"className": "Monk",
+					"classSource": "PHB",
+					"page": 13,
+					"subclassFeatures": [
+						"Way of the Ascendant Dragon|Monk||Ascendant Dragon|FTD|3",
+						"Wings Unfurled|Monk||Ascendant Dragon|FTD|6",
+						"Aspect of the Wyrm|Monk||Ascendant Dragon|FTD|11",
+						"Ascendant Aspect|Monk||Ascendant Dragon|FTD|17"
+					]
+				},
+				{
 					"name": "Way of Shadow",
 					"shortName": "Shadow",
 					"source": "PHB",
